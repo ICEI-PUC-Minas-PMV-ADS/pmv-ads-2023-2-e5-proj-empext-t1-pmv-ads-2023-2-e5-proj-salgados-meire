@@ -6,7 +6,11 @@ PROJETO - DESENVOLVIMENTO DE UMA APLICAÇÃO DISTRIBUÍDA
 
 SEMESTRE 02/2023
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Em um mundo repleto de momentos especiais e ocasiões memoráveis, não há nada como o toque mágico da culinária para criar lembranças que durarão para sempre. Seja uma festa de aniversário, um casamento, um chá de bebê, ou qualquer outra celebração, a comida desempenha um papel crucial em tornar esses momentos inesquecíveis. 
+Imagine a seguinte cena: risadas contagiantes, música animada e pessoas queridas se reunindo para celebrar. Agora, adicione à equação a fragrância tentadora de salgados frescos saindo do forno. Estamos falando de coxinhas crocantes, empadas de dar água na boca, esfihas recheadas e uma variedade de outros salgados deliciosos que irão elevar o sabor da sua festa a um patamar totalmente novo.
+
+Mas não é só sobre o sabor excepcional; é também sobre a conveniência. Entendemos que a organização de uma festa pode ser desafiadora, e é por isso que oferecer um serviço completo que inclui desde a seleção dos salgados até a entrega no local do evento. 
+
 
 ## Integrantes
 
