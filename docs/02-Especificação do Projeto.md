@@ -23,41 +23,46 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+| ID    | Descrição do Requisito                                      | Prioridade |
+|-------|-------------------------------------------------------------|------------|
+| RF-01 | O aplicativo deve mostrar as opções do cardápio | MÉDIA |
+| RF-02 | O aplicativo deve disponibilizar a quantidade de salgados a ser pedido. | ALTA |
+| RF-03 | O aplicativo deve permitir realizar a conferência de informações como: ingredientes, valor do pedido , e data de entrega.| ALTA |
+| RF-04 | O aplicativo deve permitir aceitar ou recusar os pedidos. ( Prazo de 1H).| BAIXA |
+| RF-05 | O aplicativo deve permitir ao usuário cancelar seu pedido. | ALTA |
+| RF-06 | O aplicativo deve permitir ao usuário gerenciar os pedidos. | ALTA |
+| RF-07 | O aplicativo deve permitir ao usuário gerenciar seu cadastro. | ALTA |
+| RF-08 | O aplicativo deve permitir acesso à documentação de termos e condições de uso e de políticas de privacidade.| BAIXA |
+| RF-09 |O aplicativo deverá disponibilizar qual será a forma de pagamento: Cartão, dinheiro ou pix. (Recebimento na entrega).| ALTA |
+| RF-10 | O aplicativo deve permitir acesso à documentação de termos e condições de uso e de políticas de privacidade. | MÉDIA |
+| RF-11 | O aplicativo deve permitir ao usuário adicionar seu nome e telefone de contato.| BAIXA |
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+| ID    | Restrição                                                    |
+| ----- | ------------------------------------------------------------ |
+| RE-01 | O sistema de ser feito usando práticas de UX e IxD.      |ALTA |
+| RE-02 | O sistema deve ser disponibilizado publicamente no GitHub. |ALTA |
+| RE-03 | O sistema deve apresentar baixo tempo de resposta nas requisições. |ALTA |
+| RE-04 |O sistema deve estar de acordo com a Lei Geral de Proteção de Dados (LGPD). |ALTA |
+| RE-05 |O sistema deve ser implementado em uma linguagem para aplicação Web. |ALTA |
+| RE-06 | O sistema deve ser responsivo e compatível com os principais navegadores e sistemas operacionais do mercado.|ALTA |
+| RE-07 | O sistema deve estar disponível pelo menos 99% das 24 horas do dia, nos 07 dias da semana. | ALTA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+| ID    | Restrição                                                    |
+| ----- | ------------------------------------------------------------ |
+| RE-01 | O projeto deverá ser entregue até o final do semestre        |
+| RE-02 | A equipe não pode subcontratar o desenvolvimento do trabalho. |
+| RE-03 | O Projeto deve ser desenvolvido em uma linguagem para uma aplicação distribuída. |
+| RE-04 | O aplicativo deve se restringir às tecnologias propostas pelo curso. |
+| RE-05 | A rotina de estudos da faculdade e do projeto deve se adequar e ser compartilhado com a família e o trabalho remunerado. |
+| RE-06 | A organização do projeto e do grupo deve possibilitar sua execução de forma assíncrona. |
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
