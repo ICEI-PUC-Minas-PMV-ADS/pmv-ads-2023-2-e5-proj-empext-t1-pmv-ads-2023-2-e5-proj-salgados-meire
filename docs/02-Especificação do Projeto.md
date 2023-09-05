@@ -41,12 +41,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 | ID    | Restrição                                                    |
 | ----- | ------------------------------------------------------------ |
-| RE-01 | O sistema de ser feito usando práticas de UX e IxD.      |ALTA |
-| RE-02 | O sistema deve ser disponibilizado publicamente no GitHub. |ALTA |
-| RE-03 | O sistema deve apresentar baixo tempo de resposta nas requisições. |ALTA |
-| RE-04 |O sistema deve estar de acordo com a Lei Geral de Proteção de Dados (LGPD). |ALTA |
-| RE-05 |O sistema deve ser implementado em uma linguagem para aplicação Web. |ALTA |
-| RE-06 | O sistema deve ser responsivo e compatível com os principais navegadores e sistemas operacionais do mercado.|ALTA |
+| RE-01 | O sistema de ser feito usando práticas de UX e IxD.      | ALTA |
+| RE-02 | O sistema deve ser disponibilizado publicamente no GitHub. | ALTA |
+| RE-03 | O sistema deve apresentar baixo tempo de resposta nas requisições. | ALTA |
+| RE-04 |O sistema deve estar de acordo com a Lei Geral de Proteção de Dados (LGPD).| ALTA |
+| RE-05 |O sistema deve ser implementado em uma linguagem para aplicação Web. | ALTA |
+| RE-06 | O sistema deve ser responsivo e compatível com os principais navegadores e sistemas operacionais do mercado.| ALTA |
 | RE-07 | O sistema deve estar disponível pelo menos 99% das 24 horas do dia, nos 07 dias da semana. | ALTA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
