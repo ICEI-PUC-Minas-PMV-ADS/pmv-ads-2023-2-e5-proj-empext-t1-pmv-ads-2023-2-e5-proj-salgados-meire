@@ -31,11 +31,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | RF-04 | O aplicativo deve permitir aceitar ou recusar os pedidos. ( Prazo de 1H).| BAIXA |
 | RF-05 | O aplicativo deve permitir ao usuário cancelar seu pedido. | ALTA |
 | RF-06 | O aplicativo deve permitir ao usuário gerenciar os pedidos. | ALTA |
-| RF-07 | O aplicativo deve permitir ao usuário gerenciar seu cadastro. | ALTA |
+| RF-07 | O aplicativo deve permitir ao usuário adicionar seu nome e telefone de contato. | ALTA |
 | RF-08 | O aplicativo deve permitir acesso à documentação de termos e condições de uso e de políticas de privacidade.| BAIXA |
 | RF-09 |O aplicativo deverá disponibilizar qual será a forma de pagamento: Cartão, dinheiro ou pix. (Recebimento na entrega).| ALTA |
-| RF-10 | O aplicativo deve permitir acesso à documentação de termos e condições de uso e de políticas de privacidade. | MÉDIA |
-| RF-11 | O aplicativo deve permitir ao usuário adicionar seu nome e telefone de contato.| BAIXA |
+| RF-10 |O sistema deverá permitir a edição e a exclusão de produtos.	MÉDIA. | MÉDIA |
+
 
 ### Requisitos não Funcionais
 
