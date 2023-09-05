@@ -41,13 +41,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 | ID    | Restrição                                                    |
 | ----- | ------------------------------------------------------------ |
-| RF-01 | O sistema de ser feito usando práticas de UX e IxD.      | MÉDIA |
+| RF-01 | O sistema de ser feito usando práticas de UX e IxD. | MÉDIA |
 | RF-02 | O sistema deve ser disponibilizado publicamente no GitHub. | ALTA |
 | RF-03 | O sistema deve apresentar baixo tempo de resposta nas requisições. | ALTA |
-| RF-04 | O sistema deve estar de acordo com a Lei Geral de Proteção de Dados (LGPD).| BAIXA |
+| RF-04 | O sistema deve estar de acordo com a Lei Geral de Proteção de Dados (LGPD). | BAIXA |
 | RF-05 | O sistema deve ser implementado em uma linguagem para aplicação Web. | ALTA |
-| RF-06 | O sistema deve ser responsivo e compatível com os principais navegadores e sistemas operacionais do mercado.| ALTA |
-| RF-07 | | O sistema deve estar disponível pelo menos 99% das 24 horas do dia, nos 07 dias da semana. | | ALTA |
+| RF-06 | O sistema deve ser responsivo e compatível com os principais navegadores e sistemas operacionais do mercado. | ALTA |
+| RF-07 | O sistema deve estar disponível pelo menos 99% das 24 horas do dia, nos 07 dias da semana. | ALTA |
 
 
 
