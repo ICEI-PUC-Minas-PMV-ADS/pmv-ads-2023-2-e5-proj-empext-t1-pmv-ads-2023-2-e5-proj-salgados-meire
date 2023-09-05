@@ -26,10 +26,6 @@ Outro problema comum nos estabelecimentos que vendem salgados, são os que clien
 As filas podem ser frustrantes e demoradas, e muitas vezes as pessoas não têm tempo para esperar, especialmente durante a jornada de trabalho. Além disso, em alguns casos, as filas podem desencorajar potenciais clientes de entrar na lanchonete, resultando em perda de negócios para os proprietários.
 
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
@@ -44,8 +40,6 @@ Com programa de fidelidade onde os clientes participam de programas de fidelidad
 Praticidade, onde os clientes possam escolher suas opções de salgados, verificarem quais ingrediantes, sabores e quantidades, formas de pagamento e entrega sem terem que sair de casa.
 
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
@@ -55,8 +49,6 @@ A decisão de investir em um aplicativo personalizado surge como resposta às al
 Essas taxas, que incluem comissões por pedido e taxas mensais, frequentemente resultam em desafios como a comunicação limitada com os clientes. 
 Por outro lado, a adoção de um aplicativo próprio permite que estabeleçamos um vínculo mais próximo com nossa base de clientes, ao mesmo tempo em que oferecemos uma experiência excepcional por meio de uma plataforma altamente personalizada.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Relação com a Extensão Universitária
 
