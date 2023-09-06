@@ -39,15 +39,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos não Funcionais
 
-| ID    | Restrição                                                    |
-| ----- | ------------------------------------------------------------ |
-| RE-01 | O sistema de ser feito usando práticas de UX e IxD.      | ALTA |
-| RE-02 | O sistema deve ser disponibilizado publicamente no GitHub. | ALTA |
-| RE-03 | O sistema deve apresentar baixo tempo de resposta nas requisições. | ALTA |
-| RE-04 |O sistema deve estar de acordo com a Lei Geral de Proteção de Dados (LGPD).| ALTA |
-| RE-05 |O sistema deve ser implementado em uma linguagem para aplicação Web. | ALTA |
-| RE-06 | O sistema deve ser responsivo e compatível com os principais navegadores e sistemas operacionais do mercado.| ALTA |
-| RE-07 | O sistema deve estar disponível pelo menos 99% das 24 horas do dia, nos 07 dias da semana. | ALTA |
+| ID    | Descrição do Requisito                                      | Prioridade |
+|-------|-------------------------------------------------------------|------------|
+| RF-01 | O sistema de ser feito usando práticas de UX e IxD. | MÉDIA |
+| RF-02 | O sistema deve ser disponibilizado publicamente no GitHub. | ALTA |
+| RF-03 | O sistema deve apresentar baixo tempo de resposta nas requisições. | ALTA |
+| RF-04 | O sistema deve estar de acordo com a Lei Geral de Proteção de Dados (LGPD). | BAIXA |
+| RF-05 | O sistema deve ser implementado em uma linguagem para aplicação Web. | ALTA |
+| RF-06 | O sistema deve ser responsivo e compatível com os principais navegadores e sistemas operacionais do mercado. | ALTA |
+| RF-07 | O sistema deve estar disponível pelo menos 99% das 24 horas do dia, nos 07 dias da semana. | ALTA |
+
+
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
@@ -74,24 +76,15 @@ Enumere as restrições à sua solução. Lembre-se de que as restrições geral
 
 O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-salgados-meire/assets/91296105/ce56a7ab-c558-4090-b82f-335634705bb8)
 
-> **Links Úteis**:
-> - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
-> - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
 
 ## Modelo ER (Projeto Conceitual)
 
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.
 
-Sugestão de ferramentas para geração deste artefato: LucidChart e Draw.io.
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-salgados-meire/assets/91296105/06b065a5-8526-49fb-b996-868f04cfe104)
 
-A referência abaixo irá auxiliá-lo na geração do artefato “Modelo ER”.
-
-> - [Como fazer um diagrama entidade relacionamento | Lucidchart](https://www.lucidchart.com/pages/pt/como-fazer-um-diagrama-entidade-relacionamento)
 
 ## Projeto da Base de Dados
 
