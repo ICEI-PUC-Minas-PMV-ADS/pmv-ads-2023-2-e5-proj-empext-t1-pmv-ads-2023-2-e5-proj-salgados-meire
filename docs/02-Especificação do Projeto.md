@@ -12,7 +12,8 @@ o	Descreva brevemente a arquitetura definida para o projeto e as tecnologias a s
 
 ## Project Model Canvas
 
-Colocar a imagem do modelo construído apresentando a proposta de solução.
+![PMC - Project Model Canvas ETAPA 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-salgados-meire/assets/90854853/568a26ec-6a49-491c-a6e6-b5ed0c1943cc)
+
 
 > **Links Úteis**:
 > Disponíveis em material de apoio do projeto
