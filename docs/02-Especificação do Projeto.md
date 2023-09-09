@@ -24,7 +24,7 @@ Os principais pontos levantados durante o processo foram consolidados na forma d
 | Sebastião Silva      | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
 |![SS](https://user-images.githubusercontent.com/74699119/157877912-ab54615f-ec08-4ea7-ad39-353bc9e81a72.png)| **Idade:** 65 <br> **Ocupação:** Pai, aposentado |**Aplicativos:**<br><ul>● Whatsapp<br>● E-mail</ul>|
-|**Motivações:**<br><ul>● Realizar grandes pedidos de petiscos para minhas festas.<br>● Amigos</ul>|**Frustrações:**<br><ul>● Inseguro com a internet <br>● Insatisfeito com a dificuldade de acessibilidade nos aplicativos</ul>|**Hobbies:**<br><ul>● Descansar em casa<br>● Fazer celebrações familiares<br>● Pescar</ul>|
+|**Motivações:**<br><ul>● Realizar grandes pedidos de petiscos para minhas festas.<br>● Amigos</ul>|**Frustrações:**<br><ul>● Inseguro com a internet <br>● Insatisfeito com a dificuldade de acessibilidade nos aplicativos</ul>|**Hobbies:**<br><ul>● Descansar em casa<br>● Fazer celebrações familiares<br></ul>|
 
 | Flávia de Souza  | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
