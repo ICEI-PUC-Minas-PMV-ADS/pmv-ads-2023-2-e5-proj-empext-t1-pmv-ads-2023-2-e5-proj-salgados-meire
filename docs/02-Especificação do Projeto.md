@@ -24,7 +24,7 @@ Os principais pontos levantados durante o processo foram consolidados na forma d
 | Sebastião Silva      | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
 |![SS](https://user-images.githubusercontent.com/74699119/157877912-ab54615f-ec08-4ea7-ad39-353bc9e81a72.png)| **Idade:** 65 <br> **Ocupação:** Pai, aposentado |**Aplicativos:**<br><ul>● Whatsapp<br>● E-mail</ul>|
-|**Motivações:**<br><ul>● Família <br>● Amigos</ul>|**Frustrações:**<br><ul>● Inseguro com a internet <br>● Insatisfeito com a dificuldade de comunicação com a escola do Filho</ul>|**Hobbies:**<br><ul>● Descansar em casa<br>● Assistir filmes e novelas <br>● Pescar</ul>|
+|**Motivações:**<br><ul>● Realizar grandes pedidos de petiscos para minhas festas.<br>● Amigos</ul>|**Frustrações:**<br><ul>● Inseguro com a internet <br>● Insatisfeito com a dificuldade de acessibilidade nos aplicativos</ul>|**Hobbies:**<br><ul>● Descansar em casa<br>● Fazer celebrações familiares<br>● Pescar</ul>|
 
 | Flávia de Souza  | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
@@ -45,12 +45,6 @@ Os principais pontos levantados durante o processo foram consolidados na forma d
 |--------------------|------------------------------------|----------------------------------------|
 |![FT](https://user-images.githubusercontent.com/74699119/157868769-c4830081-16db-45c5-8e95-a8f8805fce56.png)| **Idade:** 24 <br> **Ocupação:** Assistente de secretaria escolar |**Aplicativos:**<br><ul>● Youtube<br>● Whatsapp<br>● Kindle</ul>|
 |**Motivações:**<br><ul>● Ajudar no desenvolvimento e formação de seus alunos<br>● Estabelecer uma boa comunicação com os responsáveis do aluno</ul>|**Frustrações:**<br><ul>● Dificuldades de comunicação na gestão da escola<br>● Pais insatisfeitos com a escola que trabalha</ul>|**Hobbies:**<br><ul>● Leitura<br>● Filmes <br>● Cuidar de seus cães</ul>|
-
-| Paula Silveira  | Informações:                       |                                        |
-|--------------------|------------------------------------|----------------------------------------|
-|![PS](https://user-images.githubusercontent.com/74699119/157877954-3c69b72a-b9ed-4c5f-91ab-8dfd9172a928.png)| **Idade:** 32 <br> **Ocupação:** Orientadora pedagógica |**Aplicativos:**<br><ul>● Linkedin <br>● Youtube<br>● Gmail<br>● Whatsapp</ul>|
-|**Motivações:**<br><ul>● Orientar os professores com os melhores métodos pedagógicos para aplicar em sala de aula<br>● Promover o desenvolvimento pessoal dos alunos</ul>|**Frustrações:**<br><ul>●	Ineficiência na comunicação com os professores<br>● Professores reportando dificuldade em implementar métodos pedagógicos por baixo engajamento dos alunos com as atividades propostas<br>● Falta de participação e feedback dos pais no funcionamento da escola</ul>|**Hobbies:**<br><ul>● Participar de congressos de educação<br>● Ler <br>● Viajar</ul>|
-
 
 ## Arquitetura e Tecnologias
 
