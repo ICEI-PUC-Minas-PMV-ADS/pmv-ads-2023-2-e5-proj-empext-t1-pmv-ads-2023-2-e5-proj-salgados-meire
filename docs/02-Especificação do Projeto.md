@@ -14,7 +14,7 @@ Os principais pontos levantados durante o processo foram consolidados na forma d
 | Viviane Almeida      | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
 |![VA](https://user-images.githubusercontent.com/74699119/157877871-fa9aed30-59bc-4e23-bb50-d7f734fcf471.png)| **Idade:** 52 <br> **Ocupação:** Empresária |**Aplicativos:**<br><ul>● Netflix<br>● Youtube<br>● Linkedin</ul>|
-|**Motivações:**<br><ul>● Proporcionar uma boa experiência gastronômica para os amigos.<br>● Aproveitar o tempo com a família. </ul>|**Frustrações:**<br><ul>● Falta de praticidade nos pedidos<br>● Não conseguir salgados de boa qualidade.</ul>|**Hobbies:**<br><ul>● Festas<br>● Encontrar os amigos<br>● Viajar<br>●</ul>|
+|**Motivações:**<br><ul>● Proporcionar uma boa experiência gastronômica para os amigos.<br>● Aproveitar o tempo com a família. </ul>|**Frustrações:**<br><ul>● Falta de praticidade nos pedidos<br>● Não conseguir salgados de boa qualidade.</ul>|**Hobbies:**<br><ul>● Festas<br>● Encontrar os amigos<br>● Viajar</ul>|
 
 | Rafaela Miranda      | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
