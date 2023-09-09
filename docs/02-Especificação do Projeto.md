@@ -36,6 +36,26 @@ Os principais pontos levantados durante o processo foram consolidados na forma d
 |![RMo](https://user-images.githubusercontent.com/74699119/157868671-7e07ce9b-638b-47b9-8118-ba1a6359eb90.png)| **Idade:** 31 <br> **Ocupação:** Representante da prefeitura de Nacip Raydan |**Aplicativos:**<br><ul>● Facebook<br>● Twitter<br>● Instagram</ul>|
 |**Motivações:**<br><ul>● Organizar festas com o que há de melhor no departamento onde trabalho.<br>● Amigos.</ul>|**Frustrações:**<br><ul>● Dififuldade em achar salgados de boa qualidade.<br>● Dififuldade em achar um fornecedor que tenha um atendimento rápido.</ul>|**Hobbies:**<br><ul>● Ler livros<br>● Jogar futebol <br>● Ver séries</ul>|
 
+## Histórias de Usuários
+
+<p align="justify">Com base na compreensão da rotina das personas elaboradas para este projeto, foram registradas as histórias de usuário mostradas a seguir.</p>
+
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|------------------------------------|----------------------------------------|
+|Viviane Almeida     | Receber um feedback diário das atividades que meu filho participa na escola. | Acompanhar a vida escolar do meu filho de maneira mais próxima. |
+| Rafaela Miranda	| Ter maior praticidade no acesso a agenda escolar de meu filho. |	Estar ciente de todos os eventos escolares que meu filho vai participar e também de compromissos que requerem minha presença |
+| Rafaela Miranda | Ter maior privacidade e segurança na troca de informações com a escola.	| Me sentir mais segura em relação ao que acontece com meu filho na escola|
+| Sebastião Silva	| Ter uma comunicação mais direta com a instituição de ensino. |	Para obter ciência do comportamento do meu filho na escola e, assim, poder colaborar com seu aprendizado.|
+| Felipe Campos |	Que meus pais sejam informados de todas as novas informações/atualizações vindas da escola. |	Para que meus pais estejam mais presentes na minha vida escolar e possam me auxiliar melhor.|
+| Flávia de Souza |	Comunicar os responsáveis dos alunos sobre eventos importantes e reuniões de pais e professores. |	Aumentar a adesão dos pais às reuniões e eventos|
+| Renato Moreira	| Compartilhar com os pais informações relevantes sobre o dia a dia e desempenho do aluno em sala de aula. |	Gerar maior engajamento dos pais com o processo de aprendizado dos filhos.| 
+| Renato Moreira	| Poder me comunicar diretamente com os responsáveis do aluno quando for necessário. | Estar melhor informado sobre as circunstâncias do aluno em casos excepcionais (alunos faltando às aulas, etc).|
+| Mariana Rezende |	Poder compartilhar um relatório diário sobre a rotina escolar de seus alunos mais novos com os responsáveis do aluno de modo rápido e digital. | Assegurar os pais de que as necessidades dos filhos estão sendo devidamente atendidas. |
+| Fernanda Teixeira	| Melhorar/promover uma melhor integração e comunicação entre a secretaria da escola com os pais dos alunos. | Garantir que a escola passe informações precisas e rápidas para que os pais possam se integrar cada vez mais com o aprendizado dos seus filhos.|
+| Fernanda Teixeira |	Aumentar a taxa de adesão dos pais nos eventos e reuniões da escola. |	Por acreditar que receber uma maior participação dos pais na escola ajudaria no desempenho escolar dos alunos.| 
+| Paula Silveira	| Poder receber feedback dos professores envolvidos em tarefas pedagógicas a qualquer momento. | Monitorar melhor o andamento dos processos pedagógicos e orientar os professores em relação a possíveis dúvidas.|
+| Paula Silveira |	Poder agendar conselhos de classe através de uma plataforma centralizada que notifique e envie lembretes para todos os participantes. | Aumentar a consistência de realização dos conselhos de classe, promovendo um melhor monitoramento do projeto político pedagógico da escola.|
+
 ## Arquitetura e Tecnologias
 
 o	Descreva brevemente a arquitetura definida para o projeto e as tecnologias a serem utilizadas. Sugere-se a criação de um diagrama de componentes da solução.
