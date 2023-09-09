@@ -52,15 +52,27 @@ Por outro lado, a adoção de um aplicativo próprio permite que estabeleçamos 
 
 ## Relação com a Extensão Universitária
 
+A relação entre o projeto de desenvolvimento do website para os Salgados da Meire e a Extensão Universitária é muito relevante e pode ser enriquecedora para ambas as partes. Nosso proposito é demonstrar algumas maneiras pelas quais o projeto se conecta com os princípios da Extensão Universitária.
+
+O desenvolvimento do e-commerce vai envolver a aplicação prática de conhecimentos de programação, design, gestão de projetos, e outras áreas relacionadas. Isso vai nos proporcionar, como alunos, uma oportunidade de aplicar o que aprendemos em sala de aula em um projeto do mundo real.
+
+O site é uma ferramenta que pode ser utilizada para interagir com a comunidade, neste caso, os consumidores e clientes. A interação com a Comunidade se alinha com a abordagem da Extensão Universitária de estabelecer conexões e trocas de conhecimento entre a universidade e a sociedade. Também proporcionar, por outro lado, um benefício para a Meire, proprietária do Salgados Meire, com algumas automações de processos.
+
+O projeto visa atender às necessidades específicas da proprietaria e dos consumidores, proporcionando um serviço que facilita a interação e as transações. Isso se assemelha à Extensão Universitária, que procura responder a demandas da sociedade com a aplicação de conhecimentos acadêmicos. Esta parte de poder aplicar nosso aprendizado para atender as necessidades reais de uma empresa está dentro dos objetivos da extensão.
+
+Este projeto nos oferece a oportunidade de desenvolver habilidades de comunicação, colaboração e resolução de problemas ao trabalhar em conjunto com uma empresa real e entender as necessidades dos proprietarios e consumidores/clientes.
+
+Ao criar um website que simplifica o processo de vendas e controle para a empresa e melhora a experiência dos consumidores, o projeto contribui para a melhoria do ambiente de negócios e da interação cliente com a empresa, o que tem um impacto positivo na sociedade sendo um ponto extremamente relevante para nós, para a universidade e para a sociedade em geral.
+
 Hoje existe um número alto de pedidos e encomendas, após anos no mercado, temos um nome de referência em nossa localidade, oque traz muito prestigio e confiança, porém com aumento cada vez maior de pedidos, o controle manual ficou cada vez mais complexo e defasado, ao surgir a opção de automatizar esse controle, foi exatamente oque procuravamos para continuar absorvendo esse aumento de clientes e encomendas, mas sem perder o controle e qualidade do nosso trabalho, essa aplicação nós permitirá controlar tudo que é pedido, as quantidades, as vendas e o prazo de entrega, oque ocasiona melhor gestão e confiabilidade de nosso controle financeiro, e consequentimente um serviço de qualidade e confianças para os nosso clientes.
 
 ## Descrição do Parceiro
 
-"Salgados da Meire" é uma empresa local dedicada a oferecer uma ampla variedade de salgados frescos e saborosos para a comunidade. Localizada no coração da nossa cidade, nossa loja é conhecida por ser um destino confiável quando se trata de satisfazer aquela vontade de um lanche saboroso.
+"Salgados da Meire" é uma empresa local com mais de 10 anos de mercado, dedicada a oferecer uma ampla variedade de salgados frescos e saborosos para a comunidade. Localizada no coração da cidade, a loja é conhecida por ser um destino confiável quando se trata de satisfazer aquela vontade de um lanche saboroso.
 
-Nossos clientes podem desfrutar de deliciosos salgados, como coxinhas, pastéis, empadas e esfihas, todos preparados com ingredientes de alta qualidade e com todo o cuidado artesanal. Acreditamos que a chave para a satisfação dos clientes está em manter o sabor tradicional e autêntico em cada mordida.
+Os clientes podem desfrutar de deliciosos salgados, como coxinhas, pastéis, empadas e esfihas, todos preparados com ingredientes de alta qualidade e com todo o cuidado artesanal.
 
-Além disso, nossa equipe está sempre pronta para receber nossos clientes com um sorriso caloroso e atendimento amigável. Nós valorizamos a conexão com nossa comunidade e nos esforçamos para tornar cada visita uma experiência agradável.
+Além disso, a empresa Salgados Meire está sempre pronta para receber os clientes com um sorriso caloroso e atendimento amigável, pois um dos principios dessa empresa é  valorizar a conexão com a comunidade para tornar cada visita uma experiência agradável.
 
-Seja para uma festa especial,ou para todo e qualquer tipo de comemoração estamos anos no mercado para atender às necessidades de salgados com um toque caseiro, e descubrir por que somos o destino favorito de salgados em nossa cidade.
+Seja para uma festa especial, ou para todo e qualquer tipo de comemoração a empresa se encontra anos no mercado para atender às necessidades de salgados com um toque caseiro, e se mantendo como referência como um dos destinos favoritos de salgados na cidade.
 
