@@ -23,8 +23,8 @@ Os principais pontos levantados durante o processo foram consolidados na forma d
 
 | Sebastião Silva      | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
-|![SS](https://user-images.githubusercontent.com/74699119/157877912-ab54615f-ec08-4ea7-ad39-353bc9e81a72.png)| **Idade:** 65 <br> **Ocupação:** Pai, aposentado |**Aplicativos:**<br><ul>● Whatsapp<br>● E-mail</ul>|
-|**Motivações:**<br><ul>● Realizar grandes pedidos de petiscos para minhas festas.<br>● Amigos</ul>|**Frustrações:**<br><ul>● Inseguro com a internet <br>● Insatisfeito com a dificuldade de acessibilidade nos aplicativos</ul>|**Hobbies:**<br><ul>● Descansar em casa<br>● Fazer celebrações familiares<br></ul>|
+|![SS](https://user-images.githubusercontent.com/74699119/157877912-ab54615f-ec08-4ea7-ad39-353bc9e81a72.png)| **Idade:** 65 <br> **Ocupação:** Pai, Representante da Policia Militar |**Aplicativos:**<br><ul>● Whatsapp<br>● E-mail</ul>|
+|**Motivações:**<br><ul>● Realizar grandes pedidos de petiscos para o batalhão em dias de comemoração.<br>● Trabalho.</ul>|**Frustrações:**<br><ul>● Inseguro com a internet <br>● Insatisfeito com a dificuldade de acessibilidade nos aplicativos</ul>|**Hobbies:**<br><ul>● Descansar em casa<br>● Fazer celebrações familiares<br></ul>|
 
 | Flávia de Souza  | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
@@ -33,18 +33,8 @@ Os principais pontos levantados durante o processo foram consolidados na forma d
 
 | Renato Moreira | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
-|![RMo](https://user-images.githubusercontent.com/74699119/157868671-7e07ce9b-638b-47b9-8118-ba1a6359eb90.png)| **Idade:** 31 <br> **Ocupação:** Professor de matemática do ensino fundamental |**Aplicativos:**<br><ul>● Facebook<br>● Twitter<br>● Instagram</ul>|
-|**Motivações:**<br><ul>● Despertar o interesse dos alunos pela matemática<br>● Ter uma boa didática</ul>|**Frustrações:**<br><ul>● Alunos faltando em suas aulas<br>● Desinteresse dos alunos na disciplina</ul>|**Hobbies:**<br><ul>● Ler livros<br>● Jogar futebol <br>● Ver séries</ul>|
-
-| Mariana Rezende | Informações:                       |                                        |
-|--------------------|------------------------------------|----------------------------------------|
-|![MR](https://user-images.githubusercontent.com/74699119/157870547-f569bef9-c35f-4894-a846-0c8a56ffdb01.png)| **Idade:** 25 <br> **Ocupação:** Professora de educação infantil |**Aplicativos:**<br><ul>● Youtube<br>● Gmail<br>● Instagram</ul>|
-|**Motivações:**<br><ul>● Terminar a faculdade de administração<br>● Ajudar em ongs de animais<br>● Realizar um mestrado no exterior</ul>|**Frustrações:**<br><ul>● Dificuldade em se comunicar com os pais sobre o dia a dia das crianças<br>● Dificuldade em organizar atividades para seus alunos participarem</ul>|**Hobbies:**<br><ul>● Assistir séries<br>● Passeios na natureza <br>● Ler livros</ul>|
-
-| Fernanda Teixeira  | Informações:                       |                                        |
-|--------------------|------------------------------------|----------------------------------------|
-|![FT](https://user-images.githubusercontent.com/74699119/157868769-c4830081-16db-45c5-8e95-a8f8805fce56.png)| **Idade:** 24 <br> **Ocupação:** Assistente de secretaria escolar |**Aplicativos:**<br><ul>● Youtube<br>● Whatsapp<br>● Kindle</ul>|
-|**Motivações:**<br><ul>● Ajudar no desenvolvimento e formação de seus alunos<br>● Estabelecer uma boa comunicação com os responsáveis do aluno</ul>|**Frustrações:**<br><ul>● Dificuldades de comunicação na gestão da escola<br>● Pais insatisfeitos com a escola que trabalha</ul>|**Hobbies:**<br><ul>● Leitura<br>● Filmes <br>● Cuidar de seus cães</ul>|
+|![RMo](https://user-images.githubusercontent.com/74699119/157868671-7e07ce9b-638b-47b9-8118-ba1a6359eb90.png)| **Idade:** 31 <br> **Ocupação:** Representante da prefeitura de Nacip Raydan |**Aplicativos:**<br><ul>● Facebook<br>● Twitter<br>● Instagram</ul>|
+|**Motivações:**<br><ul>● Organizar festas com o que há de melhor no departamento onde trabalho.<br>● Amigos.</ul>|**Frustrações:**<br><ul>● Dififuldade em achar salgados de boa qualidade.<br>● Dififuldade em achar um fornecedor que tenha um atendimento rápido.</ul>|**Hobbies:**<br><ul>● Ler livros<br>● Jogar futebol <br>● Ver séries</ul>|
 
 ## Arquitetura e Tecnologias
 
