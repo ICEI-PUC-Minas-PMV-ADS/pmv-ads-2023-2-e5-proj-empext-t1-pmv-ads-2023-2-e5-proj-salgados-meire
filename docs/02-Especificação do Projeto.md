@@ -13,8 +13,8 @@ Os principais pontos levantados durante o processo foram consolidados na forma d
 
 | Viviane Almeida      | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
-|![VA](https://user-images.githubusercontent.com/74699119/157877871-fa9aed30-59bc-4e23-bb50-d7f734fcf471.png)| **Idade:** 57 <br> **Ocupação:** Gerente de relações públicas, mãe |**Aplicativos:**<br><ul>● Netflix<br>● Youtube<br>● Linkedin</ul>|
-|**Motivações:**<br><ul>● Acompanhar o aprendizado dos filhos <br>● Aproveitar o tempo com a família <br>● Viajar</ul>|**Frustrações:**<br><ul>● Descompromisso da escola<br>● Não passar mais tempo com os filhos<br>● Não conseguir participar ativamente do ensino dos filhos</ul>|**Hobbies:**<br><ul>● História<br>● Encontras os amigos<br>● Viajar<br>● Ver filmes e séries</ul>|
+|![VA](https://user-images.githubusercontent.com/74699119/157877871-fa9aed30-59bc-4e23-bb50-d7f734fcf471.png)| **Idade:** 52 <br> **Ocupação:** Empresária |**Aplicativos:**<br><ul>● Netflix<br>● Youtube<br>● Linkedin</ul>|
+|**Motivações:**<br><ul>● Proporcionar uma boa experiência gastronômica para os amigos.<br>● Aproveitar o tempo com a família.<br>● </ul>|**Frustrações:**<br><ul>● Falta de praticidade nos pedidos<br>● <br>● Não conseguir salgados de boa qualidade e indicação.</ul>|**Hobbies:**<br><ul>● Festas<br>● Encontrar os amigos<br>● Viajar<br>●</ul>|
 
 | Rafaela Miranda      | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
