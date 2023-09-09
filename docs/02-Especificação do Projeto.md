@@ -14,12 +14,12 @@ Os principais pontos levantados durante o processo foram consolidados na forma d
 | Viviane Almeida      | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
 |![VA](https://user-images.githubusercontent.com/74699119/157877871-fa9aed30-59bc-4e23-bb50-d7f734fcf471.png)| **Idade:** 52 <br> **Ocupação:** Empresária |**Aplicativos:**<br><ul>● Netflix<br>● Youtube<br>● Linkedin</ul>|
-|**Motivações:**<br><ul>● Proporcionar uma boa experiência gastronômica para os clientes.<br>● Fornecer um atendimento excelente para o cliente. </ul>|**Frustrações:**<br><ul>● Falta de praticidade nos atendimentos<br>● Não conseguir ter um controle eficaz dos pedidos.</ul>|**Hobbies:**<br><ul>● Festas<br>● Encontrar os amigos<br>● Viajar</ul>|
+|**Motivações:**<br><ul>● Proporcionar uma boa experiência gastronômica para os clientes.<br>● Fornecer um atendimento excelente para o cliente. </ul>|**Frustrações:**<br><ul>● Falta de praticidade nos atendimentos.<br>● Não conseguir ter um controle eficaz dos pedidos.</ul>|**Hobbies:**<br><ul>● Festas<br>● Encontrar os amigos<br>● Viajar</ul>|
 
 | Rafaela Miranda      | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
-|![RM](https://user-images.githubusercontent.com/74699119/157868822-a1647845-d66c-4cfc-8007-2a560dddf4de.png)| **Idade:** 35 <br> **Ocupação:** Dona de casa, mãe |**Aplicativos:**<br><ul>● Facebook<br>● Netflix<br>● Twitter<br>● Instagram</ul>|
-|**Motivações:**<br><ul>● Estar presente na vida escolar dos filhos <br>● Ver o crescimento intelectual dos filhos</ul>|**Frustrações:**<br><ul>● Morosidade no atendimento particular da escola <br>● Falta de praticidade no acesso à agenda escolar <br>● Falta de privacidade no compartilhamento de recados referentes ao filho</ul>|**Hobbies:**<br><ul>● Ler livros com os filhos<br>● Viajar com a família <br>● Curtir o tempo livre brincando com os filhos</ul>|
+|![RM](https://user-images.githubusercontent.com/74699119/157868822-a1647845-d66c-4cfc-8007-2a560dddf4de.png)| **Idade:** 35 <br> **Ocupação:** Dona de casa |**Aplicativos:**<br><ul>● Facebook<br>● Netflix<br>● Twitter<br>● Instagram</ul>|
+|**Motivações:**<br><ul>● Ter os melhores salgados.<br>● Realizar um pedido rápido.</ul>|**Frustrações:**<br><ul>● Morosidade no atendimento.<br>● Falta de praticidade em realizar um pedido.<br>● Não ter registrado quando o pedido será entregue.</ul>|**Hobbies:**<br><ul>● Ler livros com os filhos<br>● Viajar com a família <br>● Curtir o tempo livre brincando com os filhos</ul>|
 
 | Sebastião Silva      | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
