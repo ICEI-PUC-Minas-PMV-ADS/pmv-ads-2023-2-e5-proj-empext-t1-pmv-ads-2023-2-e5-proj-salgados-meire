@@ -32,7 +32,7 @@ As filas podem ser frustrantes e demoradas, e muitas vezes as pessoas não têm 
 Nossa aplicação web foi criada com um objetivo claro: levar até os clientes os salgados mais saborosos e irresistíveis. com o proposito de proporcionar uma experiência culinária única, e confiavél.
 Com variedades de produtos, onde o cliente possa explorar o nosso vasto cardápio de salgados cuidadosamente elaborados, desde coxinhas de frango crocantes até empadas recheadas com os sabores mais incríveis. Temos algo para todos os gostos, dos tradicionais aos mais exóticos.
 
-Com aualidade Impecável,cComprometendo a usar apenas ingredientes frescos e de alta qualidade em todos os nossos salgados. Cada produto é preparado com carinho e dedicação por chefs experientes, garantindo que você receba o melhor em cada pedido.
+Com qualidade impecável,comprometendo a usar apenas ingredientes frescos e de alta qualidade em todos os nossos salgados. Cada produto é preparado com carinho e dedicação por chefs experientes, garantindo que você receba o melhor em cada pedido.
 Entrega Conveniente, onde os clientes façam seu pedido com facilidade e comodidade diretamente em nosso site. Oferecemos opções de entrega rápida para que os clientes possam desfrutar dos nossos salgados frescos no conforto da sua casa ou escritório.
 
 Com programa de fidelidade onde os clientes participam de programas de fidelidade e ganhem recompensas exclusivas a cada compra.
