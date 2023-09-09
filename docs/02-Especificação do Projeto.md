@@ -26,11 +26,6 @@ Os principais pontos levantados durante o processo foram consolidados na forma d
 |![SS](https://user-images.githubusercontent.com/74699119/157877912-ab54615f-ec08-4ea7-ad39-353bc9e81a72.png)| **Idade:** 65 <br> **Ocupação:** Pai, aposentado |**Aplicativos:**<br><ul>● Whatsapp<br>● E-mail</ul>|
 |**Motivações:**<br><ul>● Família <br>● Amigos</ul>|**Frustrações:**<br><ul>● Inseguro com a internet <br>● Insatisfeito com a dificuldade de comunicação com a escola do Filho</ul>|**Hobbies:**<br><ul>● Descansar em casa<br>● Assistir filmes e novelas <br>● Pescar</ul>|
 
-| Felipe Campos   | Informações:                       |                                             |
-|--------------------|------------------------------------|----------------------------------------|
-|![FC](https://user-images.githubusercontent.com/74699119/157880194-e7e662b8-c724-4d24-b4e6-3dd3dd7de502.png)| **Idade:** 11 <br> **Ocupação:** Estudante |**Aplicativos:**<br><br><ul>● Youtube<br>● Whatsapp</ul>|
-| **Motivações:**<br><ul>● Ir para escola <br>● Fazer amigos <br>● Tirar boas notas nas provas</ul>| **Frustrações:**<br><ul> <li>Insatisfação com o seu desempenho nas provas escolares</li> <li>Perder atividades importantes na escola</li> <li>Ser derrotado em jogos</li></ul>| **Hobbies:**<br><ul>● Leitura <br>● Andar de skate, bicicleta e patins <br>● Games</ul>|
-
 | Flávia de Souza  | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
 |![FS](https://user-images.githubusercontent.com/74699119/157870593-47e85e52-7a86-4f5f-9795-62976f2056ae.png)| **Idade:** 58 <br> **Ocupação:** Diretora de escola |**Aplicativos:**<br><ul>● Facebook<br>● Whatsapp<br>● Gmail</ul>|
