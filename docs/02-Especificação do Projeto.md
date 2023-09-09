@@ -29,7 +29,7 @@ Os principais pontos levantados durante o processo foram consolidados na forma d
 | Flávia de Souza  | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
 |![FS](https://user-images.githubusercontent.com/74699119/157870593-47e85e52-7a86-4f5f-9795-62976f2056ae.png)| **Idade:** 58 <br> **Ocupação:** Diretora de escola |**Aplicativos:**<br><ul>● Facebook<br>● Whatsapp<br>● Gmail</ul>|
-|**Motivações:**<br><ul>● Melhorar o desempenho dos alunos de sua escola<br>● Aumentar a satisfação dos professores com seu emprego<br>● Promover mais atividades culturais na escola</ul>|**Frustrações:**<br><ul>● Altas taxas de evasão escolar<br>● Reclamações dos pais em relação a comunicação com a escola<br>● Reclamações dos professores em relação ao comportamento dos alunos</ul>|**Hobbies:**<br><ul>● Viajar<br>● Jardinagem <br>● Assistir novelas</ul>|
+|**Motivações:**<br><ul>● Realizar festas comemorativas na escola.<br>● Aumentar a satisfação dos professores e pais com a escola.<br>● Promover mais atividades culturais na escola</ul>|**Frustrações:**<br><ul>● Orçamento dos pedidos superfaturados.<br>● Dificuldade em acompanhar andamento dos pedidos.<br><ul>|**Hobbies:**<br><ul>● Viajar<br>● Jardinagem <br>● Assistir novelas</ul>|
 
 | Renato Moreira | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
