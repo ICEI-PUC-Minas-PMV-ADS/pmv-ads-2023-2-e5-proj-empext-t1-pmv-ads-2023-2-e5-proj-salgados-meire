@@ -42,7 +42,7 @@ Os principais pontos levantados durante o processo foram consolidados na forma d
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Viviane Almeida     | Receber um feedback diário das atividades que meu filho participa na escola. | Acompanhar a vida escolar do meu filho de maneira mais próxima. |
+|Viviane Almeida     | Praticidade de realizar o pedido sem a necessidade de realizar o cadastro. | Para realizar o pedido de uma forma mais rápida para minha empresa. |
 | Rafaela Miranda	| Ter maior praticidade no acesso a agenda escolar de meu filho. |	Estar ciente de todos os eventos escolares que meu filho vai participar e também de compromissos que requerem minha presença |
 | Rafaela Miranda | Ter maior privacidade e segurança na troca de informações com a escola.	| Me sentir mais segura em relação ao que acontece com meu filho na escola|
 | Sebastião Silva	| Ter uma comunicação mais direta com a instituição de ensino. |	Para obter ciência do comportamento do meu filho na escola e, assim, poder colaborar com seu aprendizado.|
