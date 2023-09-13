@@ -42,13 +42,11 @@ Os principais pontos levantados durante o processo foram consolidados na forma d
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Viviane Almeida     | Praticidade de realizar o pedido sem a necessidade de realizar o cadastro. | Para realizar o pedido de uma forma mais rápida para minha empresa. |
-| Rafaela Miranda	| Ter os melhores salgados com a praticidade de realização dos oedidos. |	Para realizar festas em família |
-| Rafaela Miranda | Ter maior privacidade e segurança na troca de informações com a escola.	| Me sentir mais segura em relação ao que acontece com meu filho na escola|
-| Sebastião Silva	| Ter uma comunicação mais direta com a instituição de ensino. |	Para obter ciência do comportamento do meu filho na escola e, assim, poder colaborar com seu aprendizado.|
+| Viviane Almeida | Praticidade de realizar o pedido sem a necessidade de realizar o cadastro. | Para realizar o pedido de uma forma mais rápida para minha empresa. |
+| Rafaela Miranda	| Ter os melhores salgados com a praticidade de realização dos pedidos. |	Para realizar festas em família |
+| Sebastião Silva	| Ter a facilidade de realizar um grande numero salgados, para as celebrações do batalhão policial |	Acompanhar o prazo de entrega do pedido.|
 | Flávia de Souza |	Comunicar os responsáveis dos alunos sobre eventos importantes e reuniões de pais e professores. |	Aumentar a adesão dos pais às reuniões e eventos|
 | Renato Moreira	| Compartilhar com os pais informações relevantes sobre o dia a dia e desempenho do aluno em sala de aula. |	Gerar maior engajamento dos pais com o processo de aprendizado dos filhos.| 
-| Renato Moreira	| Poder me comunicar diretamente com os responsáveis do aluno quando for necessário. | Estar melhor informado sobre as circunstâncias do aluno em casos excepcionais (alunos faltando às aulas, etc).|
 
 ## Arquitetura e Tecnologias
 
