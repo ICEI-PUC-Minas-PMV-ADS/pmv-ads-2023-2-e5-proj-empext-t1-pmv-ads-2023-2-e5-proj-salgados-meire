@@ -19,7 +19,7 @@ Os principais pontos levantados durante o processo foram consolidados na forma d
 | Rafaela Miranda      | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
 |![RM](https://user-images.githubusercontent.com/74699119/157868822-a1647845-d66c-4cfc-8007-2a560dddf4de.png)| **Idade:** 35 <br> **Ocupação:** Dona de casa |**Aplicativos:**<br><ul>● Facebook<br>● Netflix<br>● Twitter<br>● Instagram</ul>|
-|**Motivações:**<br><ul>● Ter os melhores salgados.<br>● Realizar um pedido rápido.</ul>|**Frustrações:**<br><ul>● Morosidade no atendimento.<br>● Falta de praticidade em realizar um pedido.<br>● Não ter registrado quando o pedido será entregue.</ul>|**Hobbies:**<br><ul>● Ler livros com os filhos<br>● Viajar com a família <br>● Curtir o tempo livre brincando com os filhos</ul>|
+|**Motivações:**<br><ul>● Ter os melhores salgados.<br>● Realizar um pedido rápido.</ul>|**Frustrações:**<br><ul>● Morosidade no atendimento.<br>● Falta de praticidade em realizar um pedido.<br>● Não ter registrado quando o pedido será entregue.</ul>|**Hobbies:**<br><ul>● Ler livros com os filhos<br>● Viajar com a família <br>● Curtir festas em família</ul>|
 
 | Sebastião Silva      | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
@@ -43,7 +43,7 @@ Os principais pontos levantados durante o processo foram consolidados na forma d
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Viviane Almeida     | Praticidade de realizar o pedido sem a necessidade de realizar o cadastro. | Para realizar o pedido de uma forma mais rápida para minha empresa. |
-| Rafaela Miranda	| Ter maior praticidade no acesso a agenda escolar de meu filho. |	Estar ciente de todos os eventos escolares que meu filho vai participar e também de compromissos que requerem minha presença |
+| Rafaela Miranda	| Ter os melhores salgados com a praticidade de realização dos oedidos. |	Para realizar festas em família |
 | Rafaela Miranda | Ter maior privacidade e segurança na troca de informações com a escola.	| Me sentir mais segura em relação ao que acontece com meu filho na escola|
 | Sebastião Silva	| Ter uma comunicação mais direta com a instituição de ensino. |	Para obter ciência do comportamento do meu filho na escola e, assim, poder colaborar com seu aprendizado.|
 | Flávia de Souza |	Comunicar os responsáveis dos alunos sobre eventos importantes e reuniões de pais e professores. |	Aumentar a adesão dos pais às reuniões e eventos|
