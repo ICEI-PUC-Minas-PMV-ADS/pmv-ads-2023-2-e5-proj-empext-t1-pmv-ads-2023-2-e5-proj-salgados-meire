@@ -45,7 +45,7 @@ Os principais pontos levantados durante o processo foram consolidados na forma d
 | Viviane Almeida | Praticidade de realizar o pedido sem a necessidade de realizar o cadastro. | Para realizar o pedido de uma forma mais rápida para minha empresa. |
 | Rafaela Miranda	| Ter os melhores salgados com a praticidade de realização dos pedidos. |	Para realizar festas em família |
 | Sebastião Silva	| Ter a facilidade de realizar um grande numero salgados, para as celebrações do batalhão policial |	Acompanhar o prazo de entrega do pedido.|
-| Flávia de Souza |	Comunicar os responsáveis dos alunos sobre eventos importantes e reuniões de pais e professores. |	Aumentar a adesão dos pais às reuniões e eventos|
+| Flávia de Souza |	Realizar festas na escola. | Para promover uma integração maior com todos do colaboradores da escola.	|
 | Renato Moreira	| Compartilhar com os pais informações relevantes sobre o dia a dia e desempenho do aluno em sala de aula. |	Gerar maior engajamento dos pais com o processo de aprendizado dos filhos.| 
 
 ## Arquitetura e Tecnologias
