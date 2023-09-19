@@ -64,7 +64,6 @@ Este projeto nos oferece a oportunidade de desenvolver habilidades de comunicaç
 
 Ao criar um website que simplifica o processo de vendas e controle para a empresa e melhora a experiência dos consumidores, o projeto contribui para a melhoria do ambiente de negócios e da interação cliente com a empresa, o que tem um impacto positivo na sociedade sendo um ponto extremamente relevante para nós, para a universidade e para a sociedade em geral.
 
-Hoje existe um número alto de pedidos e encomendas, após anos no mercado, temos um nome de referência em nossa localidade, oque traz muito prestigio e confiança, porém com aumento cada vez maior de pedidos, o controle manual ficou cada vez mais complexo e defasado, ao surgir a opção de automatizar esse controle, foi exatamente oque procuravamos para continuar absorvendo esse aumento de clientes e encomendas, mas sem perder o controle e qualidade do nosso trabalho, essa aplicação nós permitirá controlar tudo que é pedido, as quantidades, as vendas e o prazo de entrega, oque ocasiona melhor gestão e confiabilidade de nosso controle financeiro, e consequentimente um serviço de qualidade e confianças para os nosso clientes.
 
 ## Descrição do Parceiro
 
