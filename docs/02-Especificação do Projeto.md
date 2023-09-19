@@ -119,7 +119,7 @@ Enumere as restrições à sua solução. Lembre-se de que as restrições geral
 
 O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-salgados-meire/assets/91296105/ce56a7ab-c558-4090-b82f-335634705bb8)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-salgados-meire/assets/91296105/b2d51a57-72aa-412a-82e1-c0b02e386059)
 
 
 ## Modelo ER (Projeto Conceitual)
