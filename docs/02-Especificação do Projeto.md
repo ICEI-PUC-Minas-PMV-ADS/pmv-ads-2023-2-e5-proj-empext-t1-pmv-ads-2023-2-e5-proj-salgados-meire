@@ -126,7 +126,7 @@ O diagrama de casos de uso é o próximo passo após a elicitação de requisito
 
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-salgados-meire/assets/91296105/d8ead488-a1da-4196-ad2a-b8e507f9b7ff)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-salgados-meire/assets/91296105/68aee7f1-0522-4e19-ac9b-9f82cb47c0bc)
 
 
 ## Projeto da Base de Dados
