@@ -1,0 +1,10 @@
+.footer {
+  text-align: center;
+  padding: 20px;
+  margin: 20px;
+}
+
+.footer p {
+  margin: 0; /* Remove as margens padrão do parágrafo para evitar espaços extras */
+  font-size: 15px;
+}
