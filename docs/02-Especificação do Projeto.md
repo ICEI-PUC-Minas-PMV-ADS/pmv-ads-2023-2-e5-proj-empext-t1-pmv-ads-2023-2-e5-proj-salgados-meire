@@ -36,17 +36,6 @@ Os principais pontos levantados durante o processo foram consolidados na forma d
 |![RMo](https://user-images.githubusercontent.com/74699119/157868671-7e07ce9b-638b-47b9-8118-ba1a6359eb90.png)| **Idade:** 31 <br> **Ocupação:** Representante da prefeitura de Nacip Raydan |**Aplicativos:**<br><ul>● Facebook<br>● Twitter<br>● Instagram</ul>|
 |**Motivações:**<br><ul>● Organizar festas com o que há de melhor no departamento onde trabalho.<br>● Amigos.</ul>|**Frustrações:**<br><ul>● Dififuldade em achar salgados de boa qualidade.<br>● Dififuldade em achar um fornecedor que tenha um atendimento rápido.</ul>|**Hobbies:**<br><ul>● Ler livros<br>● Jogar futebol <br>● Ver séries</ul>|
 
-## Histórias de Usuários
-
-<p align="justify">Com base na compreensão da rotina das personas elaboradas para este projeto, foram registradas as histórias de usuário mostradas a seguir.</p>
-
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-| Viviane Almeida | Praticidade de realizar o pedido sem a necessidade de realizar o cadastro. | Para realizar o pedido de uma forma mais rápida para minha empresa. |
-| Rafaela Miranda	| Ter os melhores salgados com a praticidade de realização dos pedidos. |	Para realizar festas em família |
-| Sebastião Silva	| Ter a facilidade de realizar um grande numero salgados no mesmo pedido. |	Acompanhar o prazo de entrega do pedido.|
-| Flávia de Souza |	Realizar festas na escola. | Para promover uma integração maior com todos do colaboradores da escola.	|
-| Renato Moreira	| Realizar o pedido, sem ligar para o local  |	Para organizar confraternizações no departamento da prefeitura.| 
 
 ## Arquitetura e Tecnologias
 
