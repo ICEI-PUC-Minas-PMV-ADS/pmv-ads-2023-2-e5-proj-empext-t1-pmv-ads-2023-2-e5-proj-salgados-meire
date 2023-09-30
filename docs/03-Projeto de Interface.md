@@ -1,6 +1,7 @@
 
 # Projeto de Interface
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+Dentre os anseios para o desenvolvimento da interface do sistema, definiu-se o foco em questões como dinâmica interpessoal entre o usuário e a aplicação, acessibilidade, usabilidade e simplicidade. O projeto tem uma identidade visual estilizada nas telas, que são projetadas baseando-se na responsividade, para o correto funcionamento em dispositivos móveis, assim como em aplicativos mobile.
 
-Visão geral da interação do usuário com as funcionalidades que fazem parte do sistema sociotécnico (protótipo de telas).
+
+Fluxo de Telas Estático (Web)
