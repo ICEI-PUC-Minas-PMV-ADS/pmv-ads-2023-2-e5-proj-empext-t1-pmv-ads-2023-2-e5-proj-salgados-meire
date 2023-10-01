@@ -11,7 +11,7 @@
 |------------------|-------------------
 |Requisitos Associados| RF-01: O aplicativo deve mostrar as opções do cardápio. <p>RF-03: O aplicativo deve permitir realizar a conferência de informações como: ingredientes, valor do pedido, e data de entrega. </p>
 |Objetivo do Teste| Verificar se o filtro de pesquisa está recuperando os dados inseridos pelo usuário corretamente na página do cardápio.
-|Passos| 1°: Acessar o navegador.<p>2°: Informar o endereço do site.</p>3°: Visualizar a página do cardápio.<p>4°: Digitar no filtro de pesquisa algum dado presente na página do cardápio e verificar se o resultado é exibido na página.</p>
+|Passos| 1°: Acessar o navegador. 2°: Informar o endereço do site. 3°: Visualizar a página do cardápio. 4°: Digitar no filtro de pesquisa algum dado presente na página do cardápio e verificar se o resultado é exibido na página.
 |Critérios de Êxito| Os dados inseridos no filtro de pesquisa devem mostrar os itens do cardápio que contenham o dado informado.|
 
 | Caso de Teste CT-03| Verificar Detalhes dos Salgados |
