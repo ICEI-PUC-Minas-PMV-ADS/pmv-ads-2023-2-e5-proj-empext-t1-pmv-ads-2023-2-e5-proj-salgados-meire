@@ -4,7 +4,10 @@
 |-------------------|--------------------
 | Requisitos Associados | RF-01: O aplicativo deve mostrar as opções do cardápio. <p>RF-02: O aplicativo deve disponibilizar a quantidade de salgados a serem pedidos.</p> RF-07: O aplicativo deve permitir ao usuário adicionar seu nome e telefone de contato.|
 |Objetivo do Teste| Verificar se os links da página inicial estão funcionando corretamente e direcionando para as páginas correspondentes.
-|Passos| • 1°: Acessar o navegador. • 2°: Informar o endereço do site. • 3°: Visualizar a página inicial. • 4°: Clicar nos links da página inicial.|
+|Passos| • 1°: Acessar o navegador. 
+• 2°: Informar o endereço do site. 
+• 3°: Visualizar a página inicial. 
+• 4°: Clicar nos links da página inicial.|
 |Critérios de Êxito|Todos os links da página inicial devem redirecionar os usuários para as páginas corretas|
 
 | Caso de Teste CT-02| Verificar Funcionamento do Filtro de Pesquisa |
