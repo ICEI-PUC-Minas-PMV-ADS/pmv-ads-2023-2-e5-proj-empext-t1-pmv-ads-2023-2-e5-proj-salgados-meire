@@ -6,6 +6,7 @@ Navegador da internet: Chrome, Firefox ou Edge.
 Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 
 | Caso de Teste CT-01| Verificar Funcionalidade dos Links da Página Inicial |
+|-------------------|--------------------
 | Requisitos Associados |
 RF-01: O aplicativo deve mostrar as opções do cardápio.
 RF-02: O aplicativo deve disponibilizar a quantidade de salgados a serem pedidos.
