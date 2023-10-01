@@ -30,7 +30,7 @@
 
 | Caso de Teste CT-05| Verificar Cadastro de Salgados |
 | --------- |---------------------
-| Requisitos Associados | RF-0: O aplicativo deve permitir ao usuário/administrador fazer o cadastro de salgados.
+| Requisitos Associados | RF-10: O aplicativo deve permitir ao usuário/administrador fazer o cadastro de salgados.
 | Objetivo do Teste | Verificar se o cadastro de salgados está sendo realizado corretamente.
 | Passos | 1°: Acessar o navegador. 2°: Informar o endereço do site. 3°: Visualizar a página inicial. 4°: Clicar em “Entrar” no menu. 5°: Preencher os dados e Clicar em “Entrar”. 6°: Visualizar a página de perfil. 7°: Clicar em “Cadastro de salgados” no menu. 8°: Visualizar a página de cadastro de salgados. 9°: Inserir as informações sobre o salgado. Clicar em “Cadastrar”.
 | Critérios de Êxito | Deve ocorrer uma validação das informações fornecidas pelo usuário, e ao clicar em "Cadastrar", deve aparecer a mensagem "Salgado cadastrado com sucesso". |
