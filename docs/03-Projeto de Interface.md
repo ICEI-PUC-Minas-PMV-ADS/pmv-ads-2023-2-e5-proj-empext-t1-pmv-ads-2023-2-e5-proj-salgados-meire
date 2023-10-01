@@ -13,7 +13,7 @@ Figura 10 - Fluxo de Telas Estático (Web)
 Fonte: Elaborado pelos autores
 
 # 4.2 Wireframes
-Conforme exposto no item "Diagrama de Fluxo", podemos visualizar as telas do projeto de um modo geral apresentando a dinâmica do sistema. As telas da aplicação podem ser vistas com mais detalhes conforme descrito nos itens que se seguem abaixo:
+Conforme exposto Podemos visualizar as telas do projeto de um modo geral apresentando a dinâmica do sistema. As telas da aplicação podem ser vistas com mais detalhes conforme descrito nos itens que se seguem abaixo:
 
 # 4.2.1 Wireframe Interativo
 Congênere link abaixo, apresentamos o Wireframe Interativo confecionado no Figma, cujo objetivo é detalhar a interatividade com a aplicação e facilitar os testes com os usuários.
