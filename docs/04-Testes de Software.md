@@ -30,12 +30,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 | -------------- | -------------
 | Requisitos Associados | RF-: O aplicativo deve permitir ao usuário/administrador cadastrar uma conta.
 | Objetivo do Teste | Verificar se o cadastro de usuário está sendo realizado corretamente.
-| Passos | Acessar o navegador.
-Informar o endereço do site.
-Visualizar a página inicial.
-Clicar em “Área Administrativa” na página inicial
-Clicar em "Cadastre-se" no menu.
-Preencher o formulário e clicar em “Cadastrar”.
+| Passos | Acessar o navegador. Informar o endereço do site. Visualizar a página inicial. Clicar em “Área Administrativa” na página inicial. Clicar em "Cadastre-se" no menu. Preencher o formulário e clicar em “Cadastrar”.
 | Critérios de Êxito | Deve ocorrer uma validação das informações fornecidas pelo usuário, e ao clicar em "Cadastrar", deve aparecer a mensagem "Usuário cadastrado com sucesso".|
 
 
