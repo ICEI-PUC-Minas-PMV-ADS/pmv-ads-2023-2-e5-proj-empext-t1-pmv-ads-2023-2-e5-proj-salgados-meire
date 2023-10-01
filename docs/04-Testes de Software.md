@@ -26,7 +26,19 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 | Passos | 1°: Acessar o navegador. 2°: Informar o endereço do site. 3°: Visualizar a página do cardápio.
 | Critérios de Êxito | Todas as informações, incluindo imagens e preço unitário salgados, referentes aos produtos devem estar disponíveis na página do cardápio |
 
- 
+| Caso de Teste CT-04 | Verificar Cadastro de Usuário/Administrador
+| -------------- | -------------
+| Requisitos Associados | RF-: O aplicativo deve permitir ao usuário/administrador cadastrar uma conta.
+| Objetivo do Teste | Verificar se o cadastro de usuário está sendo realizado corretamente.
+| Passos | Acessar o navegador.
+Informar o endereço do site.
+Visualizar a página inicial.
+Clicar em “Área Administrativa” na página inicial
+Clicar em "Cadastre-se" no menu.
+Preencher o formulário e clicar em “Cadastrar”.
+| Critérios de Êxito | Deve ocorrer uma validação das informações fornecidas pelo usuário, e ao clicar em "Cadastrar", deve aparecer a mensagem "Usuário cadastrado com sucesso".|
+
+
 # Evidências de Testes de Software
 
 Apresente imagens e/ou vídeos que comprovam que um determinado teste foi executado, e o resultado esperado foi obtido. Normalmente são screenshots de telas, ou vídeos do software em funcionamento.
