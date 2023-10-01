@@ -9,7 +9,7 @@ Dentre os anseios para o desenvolvimento da interface do sistema, definiu-se o f
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-salgados-meire/assets/90854853/9ecdba84-0ba4-4bb7-bdcf-629379ee737d)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-salgados-meire/assets/90854853/fbb022aa-98a5-43d6-affa-2ce34ed67a2d)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-salgados-meire/assets/90854853/c1b076f7-308d-493e-b087-ec2a61a288e0)
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-salgados-meire/assets/90854853/3dae798f-a40c-4f98-a4aa-9187484fe3d9)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-salgados-meire/assets/90854853/3ae4a488-187b-4aa0-a1ab-9c8167e8dcdd)
 
 Fonte: Elaborado pelos autores
 
