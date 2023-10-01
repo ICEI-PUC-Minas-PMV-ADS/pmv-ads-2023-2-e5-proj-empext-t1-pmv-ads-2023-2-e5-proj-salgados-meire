@@ -1,0 +1,14 @@
+body {
+  background-color: #f37602;
+}
+
+.menu-container {
+  display: flex;
+  flex-wrap: wrap; /* Cards quebram para a próxima linha */
+  justify-content: center; /* Centraliza os cards horizontalmente */
+}
+
+.div-container {
+  text-align: center;
+  padding: 20px;
+}
