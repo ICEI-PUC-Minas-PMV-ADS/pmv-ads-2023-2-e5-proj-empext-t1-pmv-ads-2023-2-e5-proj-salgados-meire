@@ -44,7 +44,7 @@
 
 | Caso de Teste CT-07| Realização de Pedido |
 | ----------------- | --------------
-| Requisitos Associados | RF-05: O aplicativo deve permitir ao usuário cancelar seu pedido. RF-07: O aplicativo deve permitir ao usuário adicionar seu nome e telefone de contato. RF-09	O aplicativo deverá disponibilizar qual será a forma de pagamento: Cartão, dinheiro ou pix. (Recebimento na entrega).
+| Requisitos Associados | RF-05: O aplicativo deve permitir ao usuário cancelar seu pedido. <p>RF-07: O aplicativo deve permitir ao usuário adicionar seu nome e telefone de contato.</p> RF-09	O aplicativo deverá disponibilizar qual será a forma de pagamento: Cartão, dinheiro ou pix. (Recebimento na entrega).
 | Objetivo do Teste | Verificar se na realização do pedido está sendo solicitado o preenchimento de alguns dados do cliente, como nome, telefone e endereço de entrega. Verificar se o cliente consegue fazer o cancelamento de seus pedidos e se o cliente está informando o meio de pagamento.
 | Passos | 1°: Acessar o Navegador. 2°: Informar o endereço do site. 3°: Visualizar a página do cardápio. 4°: Adicionar os produtos do cardápio no Pedido. 5°: Informar tipo de Pagamento. 6°: Preencher formulário de dados. Finalizar Pedido.
 | Critérios de Êxito | Os produtos escolhidos devem ser apresentados no pedido, aparecendo o nome e o valor do produto.  Deve ser informado o tipo de pagamento escolhido pelo cliente. Deve ser preenchido pelo cliente um formulário informando seus dados para que possa ser realizado a entrega do pedido. Deve aparecer a opção de “Finalizar Pedido” e quando a opção for selecionada é necessário aparecer a mensagem “Pedido Finalizado”. |
