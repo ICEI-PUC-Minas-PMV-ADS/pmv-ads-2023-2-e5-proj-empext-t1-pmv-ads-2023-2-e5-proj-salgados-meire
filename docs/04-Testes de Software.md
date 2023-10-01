@@ -19,6 +19,12 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 |Passos| 1°: Acessar o navegador.<p>2°: Informar o endereço do site.</p>3°: Visualizar a página do cardápio.<p>4°: Digitar no filtro de pesquisa algum dado presente na página do cardápio e verificar se o resultado é exibido na página.</p>
 |Critérios de Êxito| Os dados inseridos no filtro de pesquisa devem mostrar os itens do cardápio que contenham o dado informado.|
 
+| Caso de Teste CT-03 | Verificar Detalhes dos Salgados
+|-------------------|---------------
+| Requisitos Associados | RF-01: O aplicativo deve mostrar as opções do cardápio.
+| Objetivo do Teste | Verificar se todas as informações referentes aos salgados estão disponíveis na página do cardápio.
+| Passos | 1°: Acessar o navegador. 2°: Informar o endereço do site. 3°: Visualizar a página do cardápio.
+| Critérios de Êxito | Todas as informações, incluindo imagens e preço unitário salgados, referentes aos produtos devem estar disponíveis na página do cardápio |
 
  
 # Evidências de Testes de Software
