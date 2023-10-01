@@ -7,7 +7,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 
 | Caso de Teste CT-01| Verificar Funcionalidade dos Links da Página Inicial |
 |-------------------|--------------------
-| Requisitos Associados | RF-01: O aplicativo deve mostrar as opções do cardápio. RF-02: O aplicativo deve disponibilizar a quantidade de salgados a serem pedidos. RF-07: O aplicativo deve permitir ao usuário adicionar seu nome e telefone de contato.|
+| Requisitos Associados | RF-01: O aplicativo deve mostrar as opções do cardápio. <p>RF-02: O aplicativo deve disponibilizar a quantidade de salgados a serem pedidos.</p> RF-07: O aplicativo deve permitir ao usuário adicionar seu nome e telefone de contato.|
 |Objetivo do Teste| Verificar se os links da página inicial estão funcionando corretamente e direcionando para as páginas correspondentes.
 |Passos| 1°: Acessar o navegador. 2°: Informar o endereço do site. 3°: Visualizar a página inicial. 4°: Clicar nos links da página inicial.
 |Critérios de Êxito|Todos os links da página inicial devem redirecionar os usuários para as páginas corretas|
