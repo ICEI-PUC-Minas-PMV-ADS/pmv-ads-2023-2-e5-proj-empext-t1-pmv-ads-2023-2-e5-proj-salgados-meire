@@ -117,3 +117,11 @@ Figura 23
 
 Fonte: Elaborado pelos autores
 
+## Tela Cadastro Novos Produtos
+
+Figura 24
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-salgados-meire/assets/90854853/e4eabcc0-4e0d-40f3-852a-7d96bd43d8fd)
+
+Fonte: Elaborado pelos autores
+
