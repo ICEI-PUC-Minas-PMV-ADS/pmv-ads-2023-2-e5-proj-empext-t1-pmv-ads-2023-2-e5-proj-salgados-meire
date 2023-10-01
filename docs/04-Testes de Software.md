@@ -33,6 +33,13 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 | Passos | Acessar o navegador. Informar o endereço do site. Visualizar a página inicial. Clicar em “Área Administrativa” na página inicial. Clicar em "Cadastre-se" no menu. Preencher o formulário e clicar em “Cadastrar”.
 | Critérios de Êxito | Deve ocorrer uma validação das informações fornecidas pelo usuário, e ao clicar em "Cadastrar", deve aparecer a mensagem "Usuário cadastrado com sucesso".|
 
+| Caso de Teste CT-05 | Verificar Cadastro de Salgados
+| --------- |---------------------
+| Requisitos Associados | RF-0: O aplicativo deve permitir ao usuário/administrador fazer o cadastro de salgados.
+| Objetivo do Teste | Verificar se o cadastro de salgados está sendo realizado corretamente.
+| Passos | Acessar o navegador. Informar o endereço do site. Visualizar a página inicial. Clicar em “Entrar” no menu. Preencher os dados e Clicar em “Entrar”. Visualizar a página de perfil. Clicar em “Cadastro de salgados” no menu. Visualizar a página de cadastro de salgados. Inserir as informações sobre o salgado. Clicar em “Cadastrar”.
+| Critérios de Êxito | Deve ocorrer uma validação das informações fornecidas pelo usuário, e ao clicar em "Cadastrar", deve aparecer a mensagem "Salgado cadastrado com sucesso". |
+
 
 # Evidências de Testes de Software
 
