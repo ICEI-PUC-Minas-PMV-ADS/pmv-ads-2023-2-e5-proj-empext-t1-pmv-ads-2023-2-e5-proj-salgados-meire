@@ -25,28 +25,28 @@
 | -------------- | -------------
 | Requisitos Associados | RF-: O aplicativo deve permitir ao usuário/administrador cadastrar uma conta.
 | Objetivo do Teste | Verificar se o cadastro de usuário está sendo realizado corretamente.
-| Passos | Acessar o navegador. Informar o endereço do site. Visualizar a página inicial. Clicar em “Área Administrativa” na página inicial. Clicar em "Cadastre-se" no menu. Preencher o formulário e clicar em “Cadastrar”.
+| Passos | 1°: Acessar o navegador. 2°: Informar o endereço do site. 3°: Visualizar a página inicial. 4°: Clicar em “Área Administrativa” na página inicial. 5°: Clicar em "Cadastre-se" no menu. 6°: Preencher o formulário e clicar em “Cadastrar”.
 | Critérios de Êxito | Deve ocorrer uma validação das informações fornecidas pelo usuário, e ao clicar em "Cadastrar", deve aparecer a mensagem "Usuário cadastrado com sucesso".|
 
 | Caso de Teste CT-05| Verificar Cadastro de Salgados |
 | --------- |---------------------
 | Requisitos Associados | RF-0: O aplicativo deve permitir ao usuário/administrador fazer o cadastro de salgados.
 | Objetivo do Teste | Verificar se o cadastro de salgados está sendo realizado corretamente.
-| Passos | Acessar o navegador. Informar o endereço do site. Visualizar a página inicial. Clicar em “Entrar” no menu. Preencher os dados e Clicar em “Entrar”. Visualizar a página de perfil. Clicar em “Cadastro de salgados” no menu. Visualizar a página de cadastro de salgados. Inserir as informações sobre o salgado. Clicar em “Cadastrar”.
+| Passos | 1°: Acessar o navegador. 2°: Informar o endereço do site. 3°: Visualizar a página inicial. 4°: Clicar em “Entrar” no menu. 5°: Preencher os dados e Clicar em “Entrar”. 6°: Visualizar a página de perfil. 7°: Clicar em “Cadastro de salgados” no menu. 8°: Visualizar a página de cadastro de salgados. 9°: Inserir as informações sobre o salgado. Clicar em “Cadastrar”.
 | Critérios de Êxito | Deve ocorrer uma validação das informações fornecidas pelo usuário, e ao clicar em "Cadastrar", deve aparecer a mensagem "Salgado cadastrado com sucesso". |
 
 | Caso de Teste CT-06| Verificar Pedidos |
 | --------------- | -----------
 | Requisitos Associados | RF-04: O aplicativo deve permitir aceitar ou recusar os pedidos. (Prazo de 1H)
 | Objetivo do Teste | Verificar se a opção de aceitar ou recusar um pedido está sendo realizado corretamente dentro do prazo pré-estabelecido.
-| Passos | Acessar o navegador. Informar o endereço do site. Visualizar a página inicial. Clicar em “Área Administrativa” no menu. Realizar login. Clicar em “Resumo de Pedidos” no menu.
+| Passos | 1°: Acessar o navegador. 2°: Informar o endereço do site. 3°: Visualizar a página inicial. 4°: Clicar em “Área Administrativa” no menu. 5°: Realizar login. 6°: Clicar em “Resumo de Pedidos” no menu.
 | Critérios de Êxito | Deve aparecer o pedido e nele haver 2 opções de “Aceitar Pedido” e “Recusar Pedido” e de acordo com a opção escolhida deve aparecer a mensagem “Pedido Aceito Com Sucesso” ou “Pedido Recusado Com Sucesso”.|
 
 | Caso de Teste CT-07| Realização de Pedido |
 | ----------------- | --------------
 | Requisitos Associados | RF-05: O aplicativo deve permitir ao usuário cancelar seu pedido. RF-07: O aplicativo deve permitir ao usuário adicionar seu nome e telefone de contato. RF-09	O aplicativo deverá disponibilizar qual será a forma de pagamento: Cartão, dinheiro ou pix. (Recebimento na entrega).
 | Objetivo do Teste | Verificar se na realização do pedido está sendo solicitado o preenchimento de alguns dados do cliente, como nome, telefone e endereço de entrega. Verificar se o cliente consegue fazer o cancelamento de seus pedidos e se o cliente está informando o meio de pagamento.
-| Passos | Acessar o Navegador. Informar o endereço do site. Visualizar a página do cardápio. Adicionar os produtos do cardápio no Pedido. Informar tipo de Pagamento. Preencher formulário de dados. Finalizar Pedido
+| Passos | 1°: Acessar o Navegador. 2°: Informar o endereço do site. 3°: Visualizar a página do cardápio. 4°: Adicionar os produtos do cardápio no Pedido. 5°: Informar tipo de Pagamento. 6°: Preencher formulário de dados. Finalizar Pedido.
 | Critérios de Êxito | Os produtos escolhidos devem ser apresentados no pedido, aparecendo o nome e o valor do produto.  Deve ser informado o tipo de pagamento escolhido pelo cliente. Deve ser preenchido pelo cliente um formulário informando seus dados para que possa ser realizado a entrega do pedido. Deve aparecer a opção de “Finalizar Pedido” e quando a opção for selecionada é necessário aparecer a mensagem “Pedido Finalizado”. |
 
 
