@@ -40,6 +40,13 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 | Passos | Acessar o navegador. Informar o endereço do site. Visualizar a página inicial. Clicar em “Entrar” no menu. Preencher os dados e Clicar em “Entrar”. Visualizar a página de perfil. Clicar em “Cadastro de salgados” no menu. Visualizar a página de cadastro de salgados. Inserir as informações sobre o salgado. Clicar em “Cadastrar”.
 | Critérios de Êxito | Deve ocorrer uma validação das informações fornecidas pelo usuário, e ao clicar em "Cadastrar", deve aparecer a mensagem "Salgado cadastrado com sucesso". |
 
+| Caso de Teste CT-06 | Verificar Pedidos
+| --------------- | -----------
+| Requisitos Associados | RF-04: O aplicativo deve permitir aceitar ou recusar os pedidos. (Prazo de 1H)
+| Objetivo do Teste | Verificar se a opção de aceitar ou recusar um pedido está sendo realizado corretamente dentro do prazo pré-estabelecido.
+| Passos | Acessar o navegador. Informar o endereço do site. Visualizar a página inicial. Clicar em “Área Administrativa” no menu. Realizar login. Clicar em “Resumo de Pedidos” no menu.
+| Critérios de Êxito | Deve aparecer o pedido e nele haver 2 opções de “Aceitar Pedido” e “Recusar Pedido” e de acordo com a opção escolhida deve aparecer a mensagem “Pedido Aceito Com Sucesso” ou “Pedido Recusado Com Sucesso”.|
+
 
 # Evidências de Testes de Software
 
