@@ -4,7 +4,7 @@
 Dentre os anseios para o desenvolvimento da interface do sistema, definiu-se o foco em questões como dinâmica interpessoal entre o usuário e a aplicação, acessibilidade, usabilidade e simplicidade. O projeto tem uma identidade visual estilizada nas telas, que são projetadas baseando-se na responsividade, para o correto funcionamento em dispositivos móveis, assim como em aplicativos mobile.
 
 
-Figura 10 - Fluxo de Telas Estático (Web)
+## Figura 10 - Fluxo de Telas Estático (Web)
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-salgados-meire/assets/90854853/9ecdba84-0ba4-4bb7-bdcf-629379ee737d)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-salgados-meire/assets/90854853/fbb022aa-98a5-43d6-affa-2ce34ed67a2d)
@@ -24,20 +24,20 @@ https://www.figma.com/file/L4MFmiMJmnhclMLpcUOFw4/SALGADOS-MEIRE?type=design&nod
 # 4.2.2 Wireframe Estático
 Com o objetivo de apresentar de forma estática as telas da aplicação criada pelo grupo, apresentamos o print das mesmas, de acordo com as seções abaixo.
 
-# Tela Home
+## Tela Home
 Figura 11
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-salgados-meire/assets/90854853/e3ddacda-ba69-42c9-97c6-b6b7a2509f21)
 
 Fonte: Elaborado pelos autores
 
-# Tela de Pedidos
+## Tela de Pedidos
 Figura 12
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-salgados-meire/assets/90854853/d30d9682-ad9e-489b-bd37-081446d3953b)
 
 Fonte: Elaborado pelos autores
 
-# Tela Seleção de Pedidos
+## Tela Seleção de Pedidos
 
 Figura 13 
 
@@ -45,7 +45,7 @@ Figura 13
 
 Fonte: Elaborado pelos autores
 
-# Tela do Carrinho
+## Tela do Carrinho
 
 Figura 14
 
@@ -53,7 +53,7 @@ Figura 14
 
 Fonte: Elaborado pelos autores
 
-# Tela Criação de Perfil
+## Tela Criação de Perfil
 
 Figura 15
 
@@ -61,7 +61,7 @@ Figura 15
 
 Fonte: Elaborado pelos autores
 
-# Tela Politica e Termos
+## Tela Politica e Termos
 
 Figura 16
 
@@ -69,7 +69,7 @@ Figura 16
 
 Fonte: Elaborado pelos autores
 
-# Tela Status do Pedido Cliente
+## Tela Status do Pedido Cliente
 
 Figura 17
 
@@ -77,7 +77,7 @@ Figura 17
 
 Fonte: Elaborado pelos autores
 
-# Tela Gerenciamento
+## Tela Gerenciamento
 
 Figura 18
 
@@ -85,7 +85,7 @@ Figura 18
 
 Fonte: Elaborado pelos autores
 
-# Tela Status do Pedido Administrador
+## Tela Status do Pedido Administrador
 
 Figura 19
 
@@ -93,7 +93,7 @@ Figura 19
 
 Fonte: Elaborado pelos autores
 
-# Tela Catálago de Produtos
+## Tela Catálago de Produtos
 
 Figura 20
 
@@ -101,7 +101,7 @@ Figura 20
 
 Fonte: Elaborado pelos autores
 
-# Tela Editar Perfil Administrador 
+## Tela Editar Perfil Administrador 
 
 Figura 22
 
@@ -109,7 +109,7 @@ Figura 22
 
 Fonte: Elaborado pelos autores
 
-# Tela de Relatório
+## Tela de Relatório
 
 Figura 23
 
