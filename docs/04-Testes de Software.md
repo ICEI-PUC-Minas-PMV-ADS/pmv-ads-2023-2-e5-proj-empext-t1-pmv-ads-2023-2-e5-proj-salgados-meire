@@ -52,4 +52,12 @@
 
 # Evidências de Testes de Software
 
-Apresente imagens e/ou vídeos que comprovam que um determinado teste foi executado, e o resultado esperado foi obtido. Normalmente são screenshots de telas, ou vídeos do software em funcionamento.
+Get.Api.Salgados
+
+![salgados get response true](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-salgados-meire/assets/89323922/d6f7c4cf-c0eb-47aa-8e41-b93b5370afa4)
+
+Post.Api.Salgados
+
+![salgados post response true](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-salgados-meire/assets/89323922/a9a62b3b-5fa7-40ad-9dfb-ebf9f1a840c6)
+
+
