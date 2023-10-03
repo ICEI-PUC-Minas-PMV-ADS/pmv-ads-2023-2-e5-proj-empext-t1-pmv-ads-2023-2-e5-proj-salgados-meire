@@ -23,7 +23,7 @@
 
 | Caso de Teste CT-04| Verificar Cadastro de Usuário/Administrador |
 | -------------- | -------------
-| Requisitos Associados | RF-: O aplicativo deve permitir ao usuário/administrador cadastrar uma conta.
+| Requisitos Associados | RF-11: O aplicativo deve permitir ao usuário/administrador cadastrar uma conta.
 | Objetivo do Teste | Verificar se o cadastro de usuário está sendo realizado corretamente.
 | Passos | 1°: Acessar o navegador. 2°: Informar o endereço do site. 3°: Visualizar a página inicial. 4°: Clicar em “Área Administrativa” na página inicial. 5°: Clicar em "Cadastre-se" no menu. 6°: Preencher o formulário e clicar em “Cadastrar”.
 | Critérios de Êxito | Deve ocorrer uma validação das informações fornecidas pelo usuário, e ao clicar em "Cadastrar", deve aparecer a mensagem "Usuário cadastrado com sucesso".|
