@@ -67,7 +67,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | RF-08 | O aplicativo deve permitir acesso à documentação de termos e condições de uso e de políticas de privacidade.| BAIXA |
 | RF-09 | O aplicativo deverá disponibilizar qual será a forma de pagamento: Cartão, dinheiro ou pix. (Recebimento na entrega).| ALTA |
 | RF-10 | O sistema deverá permitir a edição e a exclusão de produtos.	MÉDIA. | MÉDIA |
-| RF-11 | O aplicativo deve permitir ao usuário/administrador cadastrar uma conta.
+| RF-11 | O aplicativo deve permitir ao usuário/administrador cadastrar uma conta. | MÉDIA |
 
 
 ### Requisitos não Funcionais
