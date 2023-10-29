@@ -1,20 +1,44 @@
 ﻿using MongoDB.Bson.Serialization.Attributes;
+using System.ComponentModel.DataAnnotations;
 
 namespace WebApiSalgadosMeire.Moldels
 {
     public class Salgado
     {
-        [BsonId]
-        [BsonRepresentation(MongoDB.Bson.BsonType.ObjectId)]
-        public string? Id { get; set; } = null;
-        
-        [BsonElement("Nome")]
-        public string Nome { get; set; } = null;
+        [Key]
+        [Required]
+        public Guid Id { get; set; }
+        public string Nome { get; set; }
+        public string Descricao { get; set; }
+        public double ValorUnitário { get; set; }
+        public bool Ativo { get; set; } = true;
+        public string ImageUrl { get; set; }
 
-        [BsonElement("Ingredientes")]
-        public string Ingredientes { get; set; }
+        private Salgado()
+        {
 
-        [BsonElement("Preço")]
-        public string Preco { get; set; }
+        }
+
+        public Salgado(string nome, string descricao, double valorUnitário, string imageUrl)
+        {
+            Id = Guid.NewGuid();
+            Nome = nome;
+            Descricao = descricao;
+            ValorUnitário = valorUnitário;
+            ImageUrl = imageUrl;
+        }
+
+        public void DeletarSalgado()
+        {
+            Ativo = false;
+        }
+
+        public void AtualizarSalgado(string nome, string descricao, double valorUnitário, string imageUrl)
+        {
+            Nome = nome;
+            Descricao = descricao;
+            ValorUnitário = valorUnitário;
+            ImageUrl = imageUrl;
+        }
     }
 }
