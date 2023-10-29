@@ -9,13 +9,13 @@ import {
   kibe,
   pastel_assado,
 } from "../assets/index.js";
-import Footer from "../components/footer";
+import Header from '../components/Header';
 
 const MenuScreen = () => {
   const [salgados, setSalgados] = useState([]);
 
   const fetchSalgadosData = () => {
-    fetch("https://localhost:7063/api/Salgados")
+    fetch("https://localhost:7063/v1/Admin/obter-salgados-ativos")
       .then((response) => {
         return response.json();
       })
@@ -29,23 +29,24 @@ const MenuScreen = () => {
   }, []);
 
   const imagens = [
-    enroladinho_salsicha,
-    pastel_assado,
     kibe,
-    croissant,
+    enroladinho_salsicha,
     empada_frango,
     coxinha,
+    croissant,
+    pastel_assado,
   ];
 
   return (
-    <div className="div-container">
-      <h1>Cardápio</h1>
-      <div className="menu-container">
+    <div>
+      <Header />
+      <div className="div-container">
+        <div className="menu-container">
         {salgados.map((item, index) => (
           <MenuCard key={index} {...item} imagem={imagens[index]} />
         ))}
+        </div>
       </div>
-      <Footer />
     </div>
   );
 };
