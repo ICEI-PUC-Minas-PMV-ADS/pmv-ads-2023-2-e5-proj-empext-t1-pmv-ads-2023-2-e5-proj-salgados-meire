@@ -1,41 +1,5 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-<p align="justify">A definição do problema, da solução e dos pontos mais relevantes deste
-projeto foram feitas a partir de entrevistas realizadas pelos membros da
-equipe com o cliente que apresentou sua necessidade.
-Os principais pontos levantados durante o processo foram consolidados na forma de personas e histórias de usuário.</p>
-
-## Personas
-
-<p align="justify">As personas elaboradas durante o processo de definição do problema são apresentadas nas figuras a seguir:</p>
-
-| Viviane Almeida      | Informações:                       |                                        |
-|--------------------|------------------------------------|----------------------------------------|
-|![VA](https://user-images.githubusercontent.com/74699119/157877871-fa9aed30-59bc-4e23-bb50-d7f734fcf471.png)| **Idade:** 52 <br> **Ocupação:** Empresária |**Aplicativos:**<br><ul>● Netflix<br>● Youtube<br>● Linkedin</ul>|
-|**Motivações:**<br><ul>● Proporcionar uma boa experiência gastronômica para os clientes.<br>● Fornecer um atendimento excelente para o cliente. </ul>|**Frustrações:**<br><ul>● Falta de praticidade nos atendimentos.<br>● Não conseguir ter um controle eficaz dos pedidos.</ul>|**Hobbies:**<br><ul>● Festas<br>● Encontrar os amigos<br>● Viajar</ul>|
-
-| Rafaela Miranda      | Informações:                       |                                        |
-|--------------------|------------------------------------|----------------------------------------|
-|![RM](https://user-images.githubusercontent.com/74699119/157868822-a1647845-d66c-4cfc-8007-2a560dddf4de.png)| **Idade:** 35 <br> **Ocupação:** Dona de casa |**Aplicativos:**<br><ul>● Facebook<br>● Netflix<br>● Twitter<br>● Instagram</ul>|
-|**Motivações:**<br><ul>● Ter os melhores salgados.<br>● Realizar um pedido rápido.</ul>|**Frustrações:**<br><ul>● Morosidade no atendimento.<br>● Falta de praticidade em realizar um pedido.<br>● Não ter registrado quando o pedido será entregue.</ul>|**Hobbies:**<br><ul>● Ler livros com os filhos<br>● Viajar com a família <br>● Curtir festas em família</ul>|
-
-| Sebastião Silva      | Informações:                       |                                        |
-|--------------------|------------------------------------|----------------------------------------|
-|![SS](https://user-images.githubusercontent.com/74699119/157877912-ab54615f-ec08-4ea7-ad39-353bc9e81a72.png)| **Idade:** 65 <br> **Ocupação:** Pai, Representante da Policia Militar |**Aplicativos:**<br><ul>● Whatsapp<br>● E-mail</ul>|
-|**Motivações:**<br><ul>● Realizar grandes pedidos de salgados para o batalhão em dias de comemoração.<br>● Trabalho.</ul>|**Frustrações:**<br><ul>● Inseguro com a internet <br>● Insatisfeito com a dificuldade de acessibilidade nos aplicativos</ul>|**Hobbies:**<br><ul>● Descansar em casa<br>● Fazer celebrações familiares<br></ul>|
-
-| Flávia de Souza  | Informações:                       |                                        |
-|--------------------|------------------------------------|----------------------------------------|
-|![FS](https://user-images.githubusercontent.com/74699119/157870593-47e85e52-7a86-4f5f-9795-62976f2056ae.png)| **Idade:** 58 <br> **Ocupação:** Diretora de escola |**Aplicativos:**<br><ul>● Facebook<br>● Whatsapp<br>● Gmail</ul>|
-|**Motivações:**<br><ul>● Realizar festas comemorativas na escola.<br>● Aumentar a satisfação dos professores e pais com a escola.<br>● Promover mais atividades culturais na escola</ul>|**Frustrações:**<br><ul>● Orçamento dos pedidos superfaturados.<br>● Dificuldade em acompanhar andamento dos pedidos.<br><ul>|**Hobbies:**<br><ul>● Viajar<br>● Jardinagem <br>● Assistir novelas</ul>|
-
-| Renato Moreira | Informações:                       |                                        |
-|--------------------|------------------------------------|----------------------------------------|
-|![RMo](https://user-images.githubusercontent.com/74699119/157868671-7e07ce9b-638b-47b9-8118-ba1a6359eb90.png)| **Idade:** 31 <br> **Ocupação:** Representante da prefeitura de Nacip Raydan |**Aplicativos:**<br><ul>● Facebook<br>● Twitter<br>● Instagram</ul>|
-|**Motivações:**<br><ul>● Organizar festas com o que há de melhor no departamento onde trabalho.<br>● Amigos.</ul>|**Frustrações:**<br><ul>● Dififuldade em achar salgados de boa qualidade.<br>● Dififuldade em achar um fornecedor que tenha um atendimento rápido.</ul>|**Hobbies:**<br><ul>● Ler livros<br>● Jogar futebol <br>● Ver séries</ul>|
-
 
 ## Arquitetura e Tecnologias
 
