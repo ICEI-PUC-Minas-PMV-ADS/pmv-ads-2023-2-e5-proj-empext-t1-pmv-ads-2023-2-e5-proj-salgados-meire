@@ -29,7 +29,7 @@ Mas não é só sobre o sabor excepcional; é também sobre a conveniência. Ent
 
 ## Orientador
 
-* Sandra Maria Oliveira
+* Sandra Maria Silveira
 
 ## Instruções de utilização
 
