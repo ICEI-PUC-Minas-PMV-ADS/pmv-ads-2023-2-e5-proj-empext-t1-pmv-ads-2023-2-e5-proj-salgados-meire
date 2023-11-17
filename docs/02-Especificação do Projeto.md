@@ -28,9 +28,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | RF-07 | O aplicativo deve permitir ao usuário cadastrar seu nome, endereço e telefone de contato.                                  | ALTA       |
 | RF-08 | O aplicativo deve permitir que o administrador visualize seu catálogo de produtos.                                         | BAIXA      |
 | RF-09 | O aplicativo deverá disponibilizar qual será a forma de pagamento: Cartão, dinheiro e troco (Recebimento na entrega).      | ALTA       |
-| RF-10 | O sistema deverá permitir a edição e a exclusão de produtos.                                                               | MÉDIA      |
+| RF-10 | O aplicativo deve permitir que o administrador cadastre novos produtos.                                                    | MÉDIA      |
 | RF-11 | O aplicativo deve permitir a administrador filtrar suas vendas mensais.                                                    | MÉDIA      |
-| RF-12 | O aplicativo deve permitir que o administrador cadastre novos produtos.                                                    | MÉDIA      |
 
 ### Requisitos não Funcionais
 
