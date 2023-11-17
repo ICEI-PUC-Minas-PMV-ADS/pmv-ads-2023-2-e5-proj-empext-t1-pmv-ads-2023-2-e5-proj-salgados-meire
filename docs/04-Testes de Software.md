@@ -58,3 +58,6 @@ Get.Api.Salgados
 Post.Api.Salgados
 
 ![salgados post response true](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-salgados-meire/assets/89323922/a9a62b3b-5fa7-40ad-9dfb-ebf9f1a840c6)
+
+* CT-01:
+![CT-01](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-salgados-meire/docs/img/CT-01.gif)
