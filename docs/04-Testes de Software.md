@@ -51,14 +51,26 @@
 
 # Evidências de Testes de Software
 
-Get.Api.Salgados
+### CT-01:
 
-![salgados get response true](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-salgados-meire/assets/89323922/d6f7c4cf-c0eb-47aa-8e41-b93b5370afa4)
+![CT-01](img/CT-01.gif)
 
-Post.Api.Salgados
+### CT-02:
 
-![salgados post response true](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-salgados-meire/assets/89323922/a9a62b3b-5fa7-40ad-9dfb-ebf9f1a840c6)
+![CT-02](img/CT-02.gif)
 
-* CT-01:
-![image](docs/img/CT-01.gif)
+### CT-03:
 
+![CT-03](img/CT-03.png)
+
+### CT-04:
+
+![CT-04](img/CT-04.gif)
+
+### CT-06:
+
+![CT-06](img/CT-06.gif)
+
+### CT-07:
+
+![CT-07](img/CT-07.gif)
