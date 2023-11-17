@@ -60,5 +60,5 @@ Post.Api.Salgados
 ![salgados post response true](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-salgados-meire/assets/89323922/a9a62b3b-5fa7-40ad-9dfb-ebf9f1a840c6)
 
 * CT-01:
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e5-proj-empext-t1-pmv-ads-2023-2-e5-proj-salgados-meire/assets/83843255/e663ecb7-78a0-4c4f-9a00-8a19bbe4518c)
+![image](docs/img/CT-01.gif)
 
