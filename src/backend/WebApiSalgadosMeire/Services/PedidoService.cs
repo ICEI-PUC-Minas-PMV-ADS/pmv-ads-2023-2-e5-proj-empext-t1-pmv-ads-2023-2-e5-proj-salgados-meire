@@ -15,17 +15,27 @@ namespace WebApiSalgadosMeire.Services
 
         public async Task<List<Pedido>> ObterTodosPedidos()
         {
-            return await _context.Pedidos.ToListAsync();
+            return await _context.Pedidos.AsNoTracking().Include(x => x.Cliente).Include(x => x.ItensPedido).ThenInclude(x => x.Salgado).ToListAsync();
         }
 
         public async Task<Pedido?> ObterPedidoPorId(Guid id)
         {
-            return await _context.Pedidos.FindAsync(id);
+            return await _context.Pedidos.AsNoTracking().Where(x => x.Id.Equals(id)).FirstOrDefaultAsync();
         }
 
         public async Task<List<Pedido>> ObterPedidosPorClienteId(Guid clienteId)
         {
             return await _context.Pedidos.AsNoTracking().Include(x => x.ItensPedido).ThenInclude(x => x.Salgado).Where(x => x.ClienteId == clienteId).ToListAsync();
+        }
+
+        public async Task<List<Pedido>> ObterPedidosPorMes(int ano, int mes)
+        {
+            return await _context.Pedidos
+                .AsNoTracking()
+                .Include(x => x.ItensPedido)
+                .Where(x => x.DataPedido.Year == ano && x.DataPedido.Month == mes)
+                .OrderBy(x => x.DataPedido)
+                .ToListAsync();
         }
 
         public async Task AdicionarPedido(Pedido pedido, List<ItensPedido> itens)

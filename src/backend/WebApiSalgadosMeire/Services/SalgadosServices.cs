@@ -22,7 +22,7 @@ namespace WebApiSalgadosMeire.Services
 
         public async Task<Salgado?> ObterSalgadoPorId(Guid id)
         {
-            return await _context.Salgados.FindAsync(id);
+            return await _context.Salgados.AsNoTracking().Where(x => x.Id.Equals(id)).FirstOrDefaultAsync();
         }
 
         public async Task AdicionarSalgado(Salgado salgado)

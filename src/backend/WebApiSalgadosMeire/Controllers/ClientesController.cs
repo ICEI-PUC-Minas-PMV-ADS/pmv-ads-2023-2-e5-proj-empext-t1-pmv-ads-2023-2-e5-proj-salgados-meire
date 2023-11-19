@@ -33,7 +33,7 @@ namespace WebApiSalgadosMeire.Controllers
 
                 await _clienteServices.AtualizarCliente(clienteExistente);
 
-                return Ok(new { clienteId = clienteExistente.Id });
+                return Ok(clienteExistente);
             }
 
             var newCliente = new Cliente(cliente.Nome, cliente.Endereco, cliente.Telefone);
@@ -42,7 +42,7 @@ namespace WebApiSalgadosMeire.Controllers
 
             var clienteCriado = await _clienteServices.ObterClientePorTelefone(cliente.Telefone);
 
-            return Ok(new { clienteId = clienteCriado?.Id });
+            return Ok(clienteCriado);
         }
 
         [HttpPost]

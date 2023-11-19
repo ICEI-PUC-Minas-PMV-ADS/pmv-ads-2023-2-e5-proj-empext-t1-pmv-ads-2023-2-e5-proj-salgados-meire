@@ -38,7 +38,7 @@ namespace WebApiSalgadosMeire.Controllers
         }
 
         [HttpPut]
-        [Route("atualizar-salgado/{id}")]
+        [Route("atualizar-salgado/{id:Guid}")]
         public async Task<IActionResult> AtualizarSalgado(Guid id, SalgadoViewModel model)
         {
             var salgado = await _salgadosServices.ObterSalgadoPorId(id);
@@ -52,8 +52,17 @@ namespace WebApiSalgadosMeire.Controllers
             return Ok();
         }
 
+        [HttpGet]
+        [Route("obter-relatorio/{mes:int}")]
+        public async Task<IActionResult> ObterRelatorioPorMes(int mes)
+        {
+            var pedidos = await _pedidoService.ObterPedidosPorMes(2023, mes);
+
+            return Ok(pedidos);
+        }
+
         [HttpPost]
-        [Route("excluir-salgado/{id}")]
+        [Route("excluir-salgado/{id:Guid}")]
         public async Task<IActionResult> MudarStatusSalgado(Guid id)
         {
             var salgado = await _salgadosServices.ObterSalgadoPorId(id);
@@ -80,6 +89,15 @@ namespace WebApiSalgadosMeire.Controllers
             await _pedidoService.AtualizarPedido(pedido);
 
             return Ok();
+        }
+
+        [HttpGet]
+        [Route("obter-pedidos")]
+        public async Task<IActionResult> ObterPedidos()
+        {
+            var pedidos = await _pedidoService.ObterTodosPedidos();
+
+            return Ok(pedidos);
         }
     }
 }

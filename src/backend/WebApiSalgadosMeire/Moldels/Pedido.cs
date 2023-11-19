@@ -14,7 +14,7 @@ namespace WebApiSalgadosMeire.Moldels
         public Cliente Cliente { get; set; }
 
         public DateTime DataPedido { get; set; }
-        public string Status { get; set; } = "P";// Pendente = 'P' ; Aceito = 'A'; Cancelado = 'C'; Em preparo = 'E'; Saiu para entrega = 'S'
+        public string Status { get; set; } = "P";// Pendente = 'P' ; Aceito = 'A'; Cancelado = 'C'; Em preparo = 'E'; Saiu para entrega = 'S'; Finalizado = 'F';
         public string FormaPagamento { get; set; } // Dinheiro = 'D'; Cartão na Entrega = 'C' ;
         public double TrocoPara { get; set; }
 
