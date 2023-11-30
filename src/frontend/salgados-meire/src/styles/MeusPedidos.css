@@ -1,0 +1,47 @@
+.container_meus_pedidos {
+    width: 100%;
+    text-align: center;
+}
+
+.menu-container_meus_pedidos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card__container {
+    margin-top: 140px;
+}
+
+.card {
+    background-color: #13adc2 !important;
+    margin-top: 20px;
+}
+
+.divider {
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.heading {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.button-padrao {
+    /* Propriedades padrão para um botão */
+  background-color: #FFFF !important; /* Green */
+  border: none;
+  color: white;
+  padding: 0px;
+  text-align: center;
+  display: inline-block;
+  font-size: 14px;
+  border-radius: 0;
+  margin-top: 10px;
+}
+
+.button-padrao:hover {
+    background-color: #a0a0a0 !important;
+}

@@ -1,0 +1,18 @@
+.header {
+    background-color: #13adc2 !important;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+  }
+  
+  .header > div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    margin: 20px;
+}
+
+.buttons-container {
+  display: flex;
+}
