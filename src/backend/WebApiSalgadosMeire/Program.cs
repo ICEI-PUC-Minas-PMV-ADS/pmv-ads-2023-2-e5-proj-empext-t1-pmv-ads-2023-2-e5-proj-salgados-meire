@@ -1,14 +1,25 @@
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
+using WebApiSalgadosMeire.DataBase;
 using WebApiSalgadosMeire.Moldels;
 using WebApiSalgadosMeire.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-builder.Services.Configure<SalgadosDatabaseSettings>
-    (builder.Configuration.GetSection("SalgadosMeireDatabase"));
+var connectionString = builder.Configuration.GetConnectionString("SalgadosMeireConnection");
 
-builder.Services.AddSingleton<SalgadosServices>();
+builder.Services.AddDbContext<SalgadosMeireContext>(opts => opts.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
+
+// Add services to the container.
+builder.Services.AddScoped<SalgadosServices>();
+builder.Services.AddScoped<ClientesService>();
+builder.Services.AddScoped<ItensPedidoService>();
+builder.Services.AddScoped<PedidoService>();
+
+//builder.Services.Configure<SalgadosDatabaseSettings>
+//    (builder.Configuration.GetSection("SalgadosMeireDatabase"));
+
+//builder.Services.AddSingleton<SalgadosServices>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
