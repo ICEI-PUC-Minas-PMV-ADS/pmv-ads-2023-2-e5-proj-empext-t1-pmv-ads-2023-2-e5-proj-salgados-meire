@@ -37,7 +37,7 @@ Entrega Conveniente, onde os clientes façam seu pedido com facilidade e comodid
 
 Com programa de fidelidade onde os clientes participam de programas de fidelidade e ganhem recompensas exclusivas a cada compra.
 
-Praticidade, onde os clientes possam escolher suas opções de salgados, verificarem quais ingrediantes, sabores e quantidades, formas de pagamento e entrega sem terem que sair de casa.
+Praticidade, onde os clientes possam escolher suas opções de salgados, verificarem quais ingredientes, sabores e quantidades, formas de pagamento e entrega sem terem que sair de casa.
 
  
 
