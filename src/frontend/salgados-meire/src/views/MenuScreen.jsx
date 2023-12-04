@@ -10,7 +10,9 @@ const MenuScreen = () => {
 
   const fetchSalgadosData = () => {
     setLoading(true);
-    fetch("https://localhost:7063/v1/Admin/obter-salgados-ativos")
+    fetch(
+      "https://poqgmxe53i.execute-api.sa-east-1.amazonaws.com/v1/Admin/obter-salgados-ativos"
+    )
       .then((response) => {
         return response.json();
       })

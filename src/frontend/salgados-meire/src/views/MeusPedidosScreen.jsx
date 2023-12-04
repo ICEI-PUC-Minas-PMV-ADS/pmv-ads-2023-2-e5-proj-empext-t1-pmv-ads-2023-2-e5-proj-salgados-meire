@@ -34,7 +34,9 @@ const MeusPedidosScreen = () => {
 
   const getPedidos = async () => {
     setIsLoading(true);
-    fetch(`https://localhost:7063/v1/Clientes/meus-pedidos/${clienteId}`)
+    fetch(
+      `https://poqgmxe53i.execute-api.sa-east-1.amazonaws.com/v1/Clientes/meus-pedidos/${clienteId}`
+    )
       .then((response) => {
         return response.json();
       })
@@ -47,7 +49,7 @@ const MeusPedidosScreen = () => {
 
   useEffect(() => {
     if (clienteId) getPedidos();
-    // eslint-disable-next-line
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const status = {

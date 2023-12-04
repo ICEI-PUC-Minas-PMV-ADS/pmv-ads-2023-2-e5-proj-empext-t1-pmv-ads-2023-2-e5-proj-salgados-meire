@@ -32,7 +32,10 @@ const CadastroSalgadoScreen = () => {
       body: JSON.stringify(payload),
     };
 
-    fetch(`https://localhost:7063/v1/Admin/adicionar-salgado`, requestOptions)
+    fetch(
+      `https://poqgmxe53i.execute-api.sa-east-1.amazonaws.com/v1/Admin/adicionar-salgado`,
+      requestOptions
+    )
       .then((response) => {
         if (!response.ok) {
           throw new Error(`HTTP error! Status: ${response.status}`);

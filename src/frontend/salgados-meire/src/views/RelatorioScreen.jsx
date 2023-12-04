@@ -2,7 +2,7 @@ import { Card, CardBody, Select, Spinner, Text } from "@chakra-ui/react";
 import Header from "../components/Header";
 
 import "../styles/Relatorio.css";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import RelatorioTabela from "../components/RelatorioTabela";
 
 const RelatorioScreen = () => {
@@ -25,7 +25,9 @@ const RelatorioScreen = () => {
   ];
 
   const obterDados = async (mes) => {
-    fetch(`https://localhost:7063/v1/Admin/obter-relatorio/${mes}`)
+    fetch(
+      `https://poqgmxe53i.execute-api.sa-east-1.amazonaws.com/v1/Admin/obter-relatorio/${mes}`
+    )
       .then((response) => {
         return response.json();
       })

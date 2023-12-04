@@ -16,7 +16,7 @@ function Cart() {
       0
     );
     setTotalPrice(total);
-    // eslint-disable-next-line
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [cartItems]);
 
   const genaretaDataDeEntrega = () => {

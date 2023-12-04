@@ -54,7 +54,7 @@ const FormScreen = () => {
     };
 
     fetch(
-      "https://localhost:7063/v1/Clientes/confirmar-dados-cliente",
+      "https://poqgmxe53i.execute-api.sa-east-1.amazonaws.com/v1/Clientes/confirmar-dados-cliente",
       requestOptions
     )
       .then((response) => {

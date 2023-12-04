@@ -28,7 +28,7 @@ const MenuCardAdmin = (items) => {
     };
 
     fetch(
-      `https://localhost:7063/v1/Admin/atualizar-salgado/${id}`,
+      `https://poqgmxe53i.execute-api.sa-east-1.amazonaws.com/v1/Admin/atualizar-salgado/${id}`,
       requestOptions
     )
       .then((response) => {
@@ -39,12 +39,12 @@ const MenuCardAdmin = (items) => {
       .then((data) => {
         setNovoValor(novoValorInteiro);
         toast({
-          title: 'Sucesso!',
+          title: "Sucesso!",
           description: "Alteração feita com sucesso!",
-          status: 'success',
+          status: "success",
           duration: 2000,
           isClosable: true,
-        })
+        });
       });
   };
 

@@ -13,10 +13,9 @@ import {
   MenuButton,
   MenuList,
   MenuItem,
-  Spinner
+  Spinner,
 } from "@chakra-ui/react";
 import { FaChevronDown } from "react-icons/fa";
-
 
 const MeusPedidosAdmin = () => {
   const [pedidos, setPedidos] = useState([]);
@@ -24,7 +23,9 @@ const MeusPedidosAdmin = () => {
 
   const getPedidosAdmin = () => {
     setIsLoading(true);
-    fetch("https://localhost:7063/v1/Admin/obter-pedidos")
+    fetch(
+      "https://poqgmxe53i.execute-api.sa-east-1.amazonaws.com/v1/Admin/obter-pedidos"
+    )
       .then((response) => {
         return response.json();
       })
@@ -39,14 +40,15 @@ const MeusPedidosAdmin = () => {
   }, []);
 
   const changeStatusPedido = (idPedido, status) => {
-    fetch(`https://localhost:7063/v1/Admin/atualizar-status-pedido/${idPedido}/${status}`)
-      .then((response) => {
-        if (!response.ok) {
-          alert("Erro ao atualizar Pedido");
-        }
-      }); 
-      
-      return Promise.resolve();
+    fetch(
+      `https://poqgmxe53i.execute-api.sa-east-1.amazonaws.com/v1/Admin/atualizar-status-pedido/${idPedido}/${status}`
+    ).then((response) => {
+      if (!response.ok) {
+        alert("Erro ao atualizar Pedido");
+      }
+    });
+
+    return Promise.resolve();
   };
 
   const parseData = (data) => {
@@ -69,7 +71,11 @@ const MeusPedidosAdmin = () => {
 
   return (
     <div className="container_meus_pedidos">
-      <Header title={"Meus Pedidos"} showProfileIcon={false} showCartIcon={false} />
+      <Header
+        title={"Meus Pedidos"}
+        showProfileIcon={false}
+        showCartIcon={false}
+      />
       <div className="">
         <div className="menu-container_meus_pedidos">
           <div className="card__container">
@@ -89,33 +95,57 @@ const MeusPedidosAdmin = () => {
                         </Heading>
                       </CardHeader>
                       <Menu>
-                        <MenuButton className="button-padrao" as={Button} rightIcon={<FaChevronDown />}>
+                        <MenuButton
+                          className="button-padrao"
+                          as={Button}
+                          rightIcon={<FaChevronDown />}
+                        >
                           Atualizar Pedido
                         </MenuButton>
                         <MenuList>
-                          <MenuItem className="button-padrao" onClick={() => changeStatusPedido(pedido.id, "A")}>
+                          <MenuItem
+                            className="button-padrao"
+                            onClick={() => changeStatusPedido(pedido.id, "A")}
+                          >
                             {status.A}
                           </MenuItem>
-                          <MenuItem className="button-padrao" onClick={() => changeStatusPedido(pedido.id, "C")}>
+                          <MenuItem
+                            className="button-padrao"
+                            onClick={() => changeStatusPedido(pedido.id, "C")}
+                          >
                             {status.C}
                           </MenuItem>
-                          <MenuItem className="button-padrao" onClick={() => changeStatusPedido(pedido.id, "E")}>
+                          <MenuItem
+                            className="button-padrao"
+                            onClick={() => changeStatusPedido(pedido.id, "E")}
+                          >
                             {status.E}
                           </MenuItem>
-                          <MenuItem className="button-padrao" onClick={() => changeStatusPedido(pedido.id, "P")}>
+                          <MenuItem
+                            className="button-padrao"
+                            onClick={() => changeStatusPedido(pedido.id, "P")}
+                          >
                             {status.P}
                           </MenuItem>
-                          <MenuItem className="button-padrao" onClick={() => changeStatusPedido(pedido.id, "S")}>
+                          <MenuItem
+                            className="button-padrao"
+                            onClick={() => changeStatusPedido(pedido.id, "S")}
+                          >
                             {status.S}
                           </MenuItem>
                         </MenuList>
                       </Menu>
                       <CardBody>
-                        <p>Status do pedido: <Tag>{status[`${pedido.status}`]}</Tag></p>
+                        <p>
+                          Status do pedido:{" "}
+                          <Tag>{status[`${pedido.status}`]}</Tag>
+                        </p>
                         <p>{`Cliente: ${pedido.cliente.nome}`}</p>
                         <p>{`Endereço: ${pedido.cliente.endereco}`}</p>
                         <p>{`Telefone: ${pedido.cliente.telefone}`}</p>
-                        <p>{`Data do pedido: ${parseData(pedido.dataPedido)}`}</p>
+                        <p>{`Data do pedido: ${parseData(
+                          pedido.dataPedido
+                        )}`}</p>
                         <p>{`Forma de Pagamento: ${pedido.formaPagamento}`}</p>
                         <Heading size="sm" padding="10px">
                           Itens do Pedido:
@@ -132,7 +162,8 @@ const MeusPedidosAdmin = () => {
                           Total do pedido: R${" "}
                           {pedido.itensPedido.reduce(
                             (acc, item) =>
-                              acc + item.valorUnitarioNaCompra * item.quantidade,
+                              acc +
+                              item.valorUnitarioNaCompra * item.quantidade,
                             0
                           )}
                         </Heading>
@@ -146,6 +177,7 @@ const MeusPedidosAdmin = () => {
         </div>
       </div>
     </div>
-  )};  
+  );
+};
 
 export default MeusPedidosAdmin;

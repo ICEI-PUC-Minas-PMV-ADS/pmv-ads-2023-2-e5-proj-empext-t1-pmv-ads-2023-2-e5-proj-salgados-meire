@@ -10,7 +10,9 @@ const CatalogoAdmin = () => {
 
   const fetchSalgadosData = () => {
     setLoading(true);
-    fetch("https://localhost:7063/v1/Admin/obter-salgados-ativos")
+    fetch(
+      "https://poqgmxe53i.execute-api.sa-east-1.amazonaws.com/v1/Admin/obter-salgados-ativos"
+    )
       .then((response) => {
         return response.json();
       })
@@ -26,14 +28,14 @@ const CatalogoAdmin = () => {
 
   return (
     <div>
-      <Header title={"Catálogo"} showProfileIcon={false} showCartIcon={false}/>
+      <Header title={"Catálogo"} showProfileIcon={false} showCartIcon={false} />
       {isLoading ? (
         <Spinner marginTop="200px" />
       ) : (
         <div className="div-container">
           <div className="menu-container">
             {salgados.map((item, index) => (
-              <MenuCardAdmin key={index} {...item} imagem={item.imageUrl}/>
+              <MenuCardAdmin key={index} {...item} imagem={item.imageUrl} />
             ))}
           </div>
         </div>
