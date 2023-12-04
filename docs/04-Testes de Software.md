@@ -63,6 +63,10 @@
 
 ![CT-03](img/CT-03.png)
 
+### CT-05:
+
+![CT-04](img/CT-05.png)
+
 ### CT-04:
 
 ![CT-04](img/CT-04.gif)
